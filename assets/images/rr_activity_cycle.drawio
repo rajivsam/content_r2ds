@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-08-13T00:15:42.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="UAt1UqsGG5ZrJ9Na9Kx1" version="21.6.8" type="device">
+  <diagram name="Page-1" id="i96df4uW1POeBwxsulXD">
+    <mxGraphModel dx="883" dy="1842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zm3Ul1qDP3rAqVefwXVG-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="-40" width="590" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="zm3Ul1qDP3rAqVefwXVG-1" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.arrow_cycle" vertex="1" parent="zm3Ul1qDP3rAqVefwXVG-7">
+          <mxGeometry x="180" y="150" width="389.47" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="zm3Ul1qDP3rAqVefwXVG-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Modelling&lt;/span&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Decision to develop a model&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Perform model development life cycle activities&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Write model deployment artifacts to deployment components&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zm3Ul1qDP3rAqVefwXVG-7">
+          <mxGeometry x="276" width="236" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zm3Ul1qDP3rAqVefwXVG-3" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Deployment and Monitoring&lt;/span&gt;&lt;/div&gt;&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;Deploy model&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;Setup Monitoring&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zm3Ul1qDP3rAqVefwXVG-7">
+          <mxGeometry x="530" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zm3Ul1qDP3rAqVefwXVG-4" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Change Management&lt;/span&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Drift or use case specific time event occurs&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Alerts dispatched&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Change management analysis is performed&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;New model development activity is initiated&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zm3Ul1qDP3rAqVefwXVG-7">
+          <mxGeometry y="300" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-09-11T22:10:45.805Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Sv-Fr_ilvezrtqBTkFuS" version="21.7.2" type="device">
+  <diagram name="Page-1" id="UEH4U7UQzPtHyuE7AeaH">
+    <mxGraphModel dx="808" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_O0RdjJimY2jk6TNkAgu-6" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="240" y="310" width="362" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_O0RdjJimY2jk6TNkAgu-5" value="Model" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" parent="_O0RdjJimY2jk6TNkAgu-6" vertex="1">
+          <mxGeometry x="262" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_O0RdjJimY2jk6TNkAgu-2" value="Select" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" parent="_O0RdjJimY2jk6TNkAgu-6" vertex="1">
+          <mxGeometry y="3" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="_O0RdjJimY2jk6TNkAgu-3" value="Denoise" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" parent="_O0RdjJimY2jk6TNkAgu-6" vertex="1">
+          <mxGeometry x="88" y="3" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="_O0RdjJimY2jk6TNkAgu-4" value="Transform" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" parent="_O0RdjJimY2jk6TNkAgu-6" vertex="1">
+          <mxGeometry x="176" y="3" width="100" height="57" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

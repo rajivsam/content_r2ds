@@ -1,0 +1,13 @@
+---
+layout: default
+title: Algorithms
+nav_order: 4
+has_children: true
+---
+<div align='justify'>
+Placeholder for <em> rinse and repeat </em> algorithms
+</div>  
+Coming soon, _rinse and repeat_ examples from IOT for Industrial Maintainence and Healthcare 
+
+ 
+
