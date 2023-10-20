@@ -40,6 +40,8 @@ plugins:
   - jekyll/scholar
   - jekyll-feed
   - jekyll-katex
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 
 scholar:

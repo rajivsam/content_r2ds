@@ -1,4 +1,10 @@
+{% seo %}
 {% assign math = page.math | default: layout.math | default: site.math %}
+
+<!-- Google Analytics tracking ID -->
+{% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+{% endif %}
 
 {% case math %}
   {% when "katex" %}

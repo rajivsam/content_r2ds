@@ -38,3 +38,9 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # for katex
  gem "jekyll-katex"
+
+ # for seo plugin
+ gem 'jekyll-seo-tag'
+
+ # for site-map
+ gem 'jekyll-sitemap'
