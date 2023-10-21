@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Overview
+author: Rajiv Sambasivan
+description: Done correctly, data science can provide businesses multiple benefits - increase revenue, improve customer engagement and satisfaction. Creating data science solutions that are impactful requires engineering judgement and data science skills. Rajiv Sambasivan is an experienced data scientist with both the formal training and extensive practical experience in developing data science solutions. Contact Rajiv for help with developing a data science based solution for your use case.
 permalink: /about/
 nav_order: 2
 ---
