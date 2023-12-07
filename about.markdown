@@ -84,7 +84,7 @@ Please read the recipes section of this documentation to see how the above idea 
 ## Operationalizing the Solution
 When we agree the solution is at a state that you want to operationalize into your business operating environment, I can support you as follows:
 
-* If your use case is a simple report, a small set of APIs that are stand-alone, I can do that for you. 
+* If your use case is a simple report, a small set of APIs that are stand-alone, I can do that for you. For example, if we can use [github codespaces](https://docs.github.com/en/codespaces/overview), then that would make operationalizing the solution very simple. It becomes a matter of spinning up an appropriate dev container, installing the _requirements.txt_ file on the container and we should have a working solution. 
 * If your use case needs to be integrated into an existing infrastructure, then I can work with your dev-ops and ml-ops team to get this integrated. The solution can be containerized and I can work with your dev-ops team to do what it takes to configure the containerized solution to what your dev-ops team needs. For example, if you have a platform solution with specific interface constraints, I can work with that.
 * If the solution is a machine learning solution, I can work with your dev-ops team to set up monitoring for the solution.
 
