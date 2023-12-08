@@ -25,4 +25,4 @@ Data science can lead to actionable insights and understanding of your business 
   {: style="text-align: justify"}
 
 
-__Note__: Thank you for visiting. This site is work in progress. I will thank you one more time if you can view this on a laptop. Mobile optimization for images will happen soon.
+_

@@ -19,11 +19,7 @@ This site may give you a flavor of the the kind of problems I am interested in, 
 * Framing big data problems in terms of newer algorithmic methods such as submodularity and sketching (see [this playlist](https://www.youtube.com/watch?v=byJ2zujIPh8&list=PLgKuh-lKre13d6vkwc3NrEh2YguAe-XLV) ) so that large problems can be solved with sufficient (satisficing at work again) solution quality with a fraction of the costs and resources. I really believe in adding complexity only if needed, but definitely if needed.
 
 
-{: .important }
-> But... what about Generative AI?, you ask.
 
-{: .highlight }
-> At some point of time I will create a conversational, language model based assistant to funnel conversations to the right recipe or algorithm discussed here. For now, if your data and use case contains a timestamp then it is quite likely that one of the recipes discussed in this site are of interest to you.
 
 
 
