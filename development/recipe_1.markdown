@@ -23,6 +23,11 @@ As someone who has worked in software development for over two decades, the rang
 * Development Containers: I evaluated [github codespaces](https://docs.github.com/en/codespaces/overview). It makes porting and operationalizing your application very straight forward. This would definitely relieve a lot of pain and friction in operationalizing a developed data science solution. This [talk](https://www.youtube.com/watch?v=QbbYj56s7HU&t=922s) provides an overview of the features and the problem it aims to solve. Personally, I love this idea.
 {: style="text-align: justify"}
 
+* Exporatory Data Analysis: [Dtale](https://github.com/man-group/dtale) seemed like it did a reasonable job for basic exploration. 
+{: style="text-align: justify"}
+
+* Data Quality: [Pandera](https://pandera.readthedocs.io/en/stable/) was pretty easy to use compared to great expectations. An example of applying this to the retail dataset is available [here](https://github.com/rajivsam/itsm_retail_examples_r2ds/blob/main/notebooks/Retail/data_quality_assessment.ipynb).
+{: style="text-align: justify"}
 
 * Stream Processing: I do think we will see the need for analytics and machine learning applications move towards stream processing. The stream algorithms in the [data sketches](https://datasketches.apache.org/) library are pretty impressive. I tried using this on [retail dataset](https://github.com/rajivsam/itsm_retail_examples_r2ds/blob/main/notebooks/Retail/kafka_freq_items_consumer.ipynb) to determine frequently purchased items. This is a Kafka based solution. A container specification for the solution is available [here](https://github.com/rajivsam/itsm_retail_examples_r2ds/blob/main/docker/docker-compose.yml). 
 {: style="text-align: justify"}

@@ -93,8 +93,10 @@ Once the solution is operationalized, then one or more of the following temporal
 * There is a standard operating procedure related to the developed task, for example, you may be doing performance reporting or evaluation every quarter and at the start of the new quarter, you need to run the use case on new data.
 * In the case of machine learning applications, a data drift may occur. This implies that the data that the model was built or trained on is different from the data you are now receiving, so a new model based on the current data needs to be built.
 
-In both these cases, you revisit the modeling phase make adjustments, and then reoperationalize the new solution. This is something you can do yourself if you or your team are comfortable doing it or I can do that for you. A schematic showing this process is shown below.
+In both these cases, you revisit the modeling phase make adjustments, and then reoperationalize the new solution. This is something you can do yourself if you or your team are comfortable doing it or I can do that for you. A schematic showing this process is shown below. 
 {: style="text-align: justify"}
+
+* Please see the [development tools]({%link development/recipe_1.markdown %}) for details of development tools that I currently use. 
 
 
 
