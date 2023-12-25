@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Overview
-author: Rajiv Sambasivan
-description: Done correctly, data science can provide businesses multiple benefits - increase revenue, improve customer engagement and satisfaction. Creating data science solutions that are impactful requires engineering judgement and data science skills. Rajiv Sambasivan is an experienced data scientist with both the formal training and extensive practical experience in developing data science solutions. Contact Rajiv for help with developing a data science based solution for your use case.
 permalink: /about/
 nav_order: 2
 ---
@@ -21,6 +19,8 @@ Here is the anatomy of a <em> rinse and repeat </em> data science project.
 {: refdef}
  
  <center><figcaption><strong>Flow of Data Snapshots in <em> rinse and repeat </em></strong></figcaption></center>
+
+
  
 ## Implementation pivots around your use case
  
@@ -34,6 +34,9 @@ Once we have decided on a set of candidate data assets for your use case, I woul
 {: refdef}
 
 <center><figcaption><strong>Implementation increments pivot around use case discussions </strong></figcaption></center>
+
+The key activity in this phase is the decomposition of the application use cases into a set of data science tasks. This is the step that requires skill, judgement and experience. The following is a quote from {%cite provost2013data %}:
+> A critical skill in data science is the ability to decompose a data- analytics problem into pieces such that each piece matches a known task for which tools are available. Recognizing familiar problems and their solutions avoids wasting time and resources reinventing the wheel. It also allows people to focus attention on more interesting parts of the process that require human involvement—parts that have not been automated, so human creativity and intelligence must come in‐ to play.
 
 
 ## Modeling
@@ -106,7 +109,8 @@ In both these cases, you revisit the modeling phase make adjustments, and then r
 
 <center><figcaption><strong><em> Rinse and Repeat, after iteration # 1</em> </strong></figcaption></center>
 
-
+## Bibliography
+{% bibliography --cited %}
 
   
   
