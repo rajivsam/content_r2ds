@@ -6,7 +6,7 @@ nav_order: 2
 ---
 The following are salient aspects of a _rinse and repeat_ project:
 {: .important}
-> Breaking down functional (business) tasks into known data science task primitives 
+> Breaking down functional (business) tasks into known data science task primitives. This is a crucial component of any data science project. This takes skill, experience and judgement to do correctly. Very, very easy to do this incorrectly. 
 > 
 > Sequencing tasks into an iteration plan 
 > 
