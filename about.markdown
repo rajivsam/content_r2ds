@@ -4,15 +4,20 @@ title: Overview
 permalink: /about/
 nav_order: 2
 ---
-
-
+The following are salient aspects of a _rinse and repeat_ project:
+{: .important}
+> Breaking down functional (business) tasks into known data science task primitives 
+> 
+> Sequencing tasks into an iteration plan 
+> 
+> Embracing cloud native technology and high quality data science task libraries to craft a scalable solution.
 
 Here is the anatomy of a <em> rinse and repeat </em> data science project.
 
 ## Analysis pivots around the data
-<div align="justify">
+
  The process starts with a discussion that helps me understand what you desire to accomplish conceptually through an analytics or machine learning application. We then discuss your data assets in relation to your objectives. The data assets form the pivot around which idea refinement will be done. Your data assets can reside in a few different data sources. Ideally, it would be best if you could get your data team to consolidate the data assets we identified in our discussions into a single source file. Generally, a single use case should address a small reasonable goal, so I would expect to not deal with more than a few, say five, data sources. If you have two or three data sources, I don't mind taking on the consolidation task. The consolidated version forms the first baseline of the data for the <em> rinse and repeat </em> process. The sources and integration of the sources in subsequent iterations should be similar. An illustration of the data snapshots for the process is shown.
- </div>
+  {: style="text-align: justify"}
 
 {:refdef: style="text-align: center;"}
 ![rinse and repeat time snapshots](../assets/images/sequence_of_data_snapshots.png){:width="75%"}
