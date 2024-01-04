@@ -11,7 +11,7 @@ At the surface level, developing a data science solution for a business task is 
 
 Start a <a href="https://calendly.com/rajiv-sambasivan/30min"> conversation </a> with me today to explore getting your data science based business idea to fruition. The [process section]({%link process.markdown %}) provides the details of the process I would follow to develop an understanding of your problem. Some representative services I provide are:
 
-1. Statistical Modelling and Data Analysis in support of case studies relevant to your application domain. Such models answer a specific set of questions of interest. For example, are users from group A more profitable than users from group B?
+1. Statistical Modelling and Data Analysis in support of analytic studies relevant to your application domain. Such models answer a specific set of questions of interest. For example, are users from group A more profitable than users from group B?
 2. Knowldege Base construction using data mining and information extraction techniques. Knowledge bases created this way can be used by your applications to serve your customers, users and employees better.
 3. Modelling and Data Analysis in support of application development for process automation or decision support. While a case study answers a specific set of questions, the product from this task is a model that is used in business operations. An application that dispatches tasks to an automatic workflow or to a human expert for further triaging is an example of a process automation task that can be accomplished with machine learning. An application to reject or approve an employee request for a particular resource is an example of a decision theoretic application.
 4. Forecasting Models
