@@ -4,9 +4,6 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/recipes/algorithms/</loc>
 </url>
 <url>
@@ -16,7 +13,13 @@
 <loc>http://localhost:4000/recipes/analytics/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/interests/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/process/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/development/recipe_1.html</loc>
