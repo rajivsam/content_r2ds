@@ -19,7 +19,7 @@ Start a <a href="https://calendly.com/rajiv-sambasivan/30min"> conversation </a>
    5. Cognitive Analytics.
    
    If you are interested in the details, please see {%cite janev2020knowledge %}[Chapter 1, section 6.2]. This is a free online resource. In fact all items in the bibliography are available online.
-2. Knowldege Base construction using data mining and information extraction techniques. Knowledge representation and reasoning are central to Artificial Intelligence. Extracting knowledge from data, setting up best representations of knowledge for your particular application and use case is a service that I can provide for you[^1]. 
+2. Knowldege Base construction using data mining and information extraction techniques. Knowledge representation and reasoning are central to Artificial Intelligence. Extracting knowledge from data, setting up best representations of knowledge for your particular application and use case is a service that I can provide for you. See [this link](https://github.com/rajivsam/KMDS) for more details.
 3. Modelling and Data Analysis in support of application development for process automation or decision support. While a case study answers a specific set of questions, the product from this task is a model that is used in business operations. An application that dispatches tasks to an automatic workflow or to a human expert for further triaging is an example of a process automation task that can be accomplished with machine learning. An application to reject or approve an employee request for a particular resource is an example of a decision theoretic application.
 4. Forecasting Models
 5. Machine Learning model development on streaming data
@@ -30,5 +30,3 @@ Start a <a href="https://calendly.com/rajiv-sambasivan/30min"> conversation </a>
 ## Bibliography
 {% bibliography --cited %}
 
-## Footnotes
-[^1]: I have some ongoing work in this area that I will put up online soon.
