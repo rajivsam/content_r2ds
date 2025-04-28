@@ -1,0 +1,30 @@
+{"0": {
+    "doc": "Services Provided",
+    "title": "Bibliography",
+    "content": ". | Provost, F., &amp; Fawcett, T. (2013). Data Science for Business: What you need to know about data mining and data-analytic thinking. \" O’Reilly Media, Inc.\". | Pyle, D. (1999). Data preparation for data mining. morgan kaufmann. | Janev, V., Graux, D., Jabeen, H., &amp; Sallinger, E. (2020). Knowledge graphs and big data processing. Springer Nature. | . ",
+    "url": "/about/#bibliography",
+    
+    "relUrl": "/about/#bibliography"
+  },"1": {
+    "doc": "Services Provided",
+    "title": "Services Provided",
+    "content": "At the surface level, developing a data science solution for a business task is about breaking the functional task into known data science task primitives. There are a handful of data science task primitives (see (Provost &amp; Fawcett, 2013) for details), so this might seem like a simple task. Usually, a naive approach leads to uncovering hidden problems and pitfalls due to unverified modelling assumptions and sub-optimal models that are costly to develop and maintain. Though old, (Pyle, 1999) provides timeless advice and a very good summary of the tasks involved in a typical data science business project. Typically, there is a significant exploratory component in developing a data science model requiring dialogue with business stakeholders and modeling experimentation. To achieve success, the data science team must surface the right questions and model the right problem. This takes skill, experience and engineering judgment. The following quote from (Provost &amp; Fawcett, 2013) best summarizes this: . A critical skill in data science is the ability to decompose a data- analytics problem into pieces such that each piece matches a known task for which tools are available. Recognizing familiar problems and their solutions avoids wasting time and resources reinventing the wheel. It also allows people to focus attention on more interesting parts of the process that require human involvement—parts that have not been automated, so human creativity and intelligence must come in‐ to play. Start a conversation with me today to explore getting your data science based business idea to fruition. The process section provides the details of the process I would follow to develop an understanding of your problem. Some representative services I provide are: . | Statistical Modelling and Data Analysis in support of analytic studies relevant to your application domain. Such models answer a specific set of questions of interest. For example, are users from group A more profitable than users from group B?. This type of work falls under the category of analytics and can be further categorized as: . | Descriptive Analytics | Diagnostic Analytics | Predictive Analytics | Prescriptive Analytics | Cognitive Analytics. | . If you are interested in the details, please see (Janev et al., 2020)[Chapter 1, section 6.2]. This is a free online resource. In fact all items in the bibliography are available online. | Knowldege Base construction using data mining and information extraction techniques. Knowledge representation and reasoning are central to Artificial Intelligence. Extracting knowledge from data, setting up best representations of knowledge for your particular application and use case is a service that I can provide for you. See this link for more details. | Modelling and Data Analysis in support of application development for process automation or decision support. While a case study answers a specific set of questions, the product from this task is a model that is used in business operations. An application that dispatches tasks to an automatic workflow or to a human expert for further triaging is an example of a process automation task that can be accomplished with machine learning. An application to reject or approve an employee request for a particular resource is an example of a decision theoretic application. | Forecasting Models | Machine Learning model development on streaming data | Model development for Big Data | Development of models based on combinatorial optimization | . ",
+    "url": "/about/",
+    
+    "relUrl": "/about/"
+  },"2": {
+    "doc": "Focus Areas",
+    "title": "Focus Areas",
+    "content": "This site may give you a flavor of the the kind of problems I am interested in, but there is much to add and this is a work in progress. I spent a long time developing software for business tasks in various domains, I find reformulation of these problems in terms of algorithmic or learning tasks enjoyable and interesting. With that said, here is a reasonable summary of my professional interests. | Framing business problems as algorithmic problems . | Framing business problems as machine learning tasks . | Framing business problems as statistical modelling tasks . | Doing the above with a satisficing perspective if need be. Optimal is a worthy goal, but efficient learning is a worthier goal. By efficient learning, I mean learning with time and costs that are just enough to meet the business need. | Framing big data problems in terms of newer algorithmic methods such as submodularity and sketching (see this playlist ) so that large problems can be solved with sufficient (satisficing at work again) solution quality with a fraction of the costs and resources. I really believe in adding complexity only if needed, but definitely if needed. | . ",
+    "url": "/interests/",
+    
+    "relUrl": "/interests/"
+  },"3": {
+    "doc": "The Process",
+    "title": "The Process",
+    "content": "Please see this git repository for tool and documentation about the approach to developing a solution for you. ",
+    "url": "/process/",
+    
+    "relUrl": "/process/"
+  }
+}
