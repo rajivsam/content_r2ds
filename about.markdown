@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Services Provided
+title: Expertise
+description: "What I can do for you"
 permalink: /about/
 nav_order: 2
 ---
@@ -9,24 +10,8 @@ At the surface level, developing a data science solution for a business task is 
 
 > A critical skill in data science is the ability to decompose a data- analytics problem into pieces such that each piece matches a known task for which tools are available. Recognizing familiar problems and their solutions avoids wasting time and resources reinventing the wheel. It also allows people to focus attention on more interesting parts of the process that require human involvement—parts that have not been automated, so human creativity and intelligence must come in‐ to play.
 
-Start a <a href="https://calendly.com/rajiv-sambasivan/30min"> conversation </a> with me today to explore getting your data science based business idea to fruition. The [process section]({%link process.markdown %}) provides the details of the process I would follow to develop an understanding of your problem. Some representative services I provide are:
-
-1. Statistical Modelling and Data Analysis in support of analytic studies relevant to your application domain. Such models answer a specific set of questions of interest. For example, are users from group A more profitable than users from group B?. This type of work falls under the category of _analytics_ and can be further categorized as:
-   1. Descriptive Analytics
-   2. Diagnostic Analytics
-   3. Predictive Analytics
-   4. Prescriptive Analytics
-   5. Cognitive Analytics.
-   
-   If you are interested in the details, please see {%cite janev2020knowledge %}[Chapter 1, section 6.2]. This is a free online resource. In fact all items in the bibliography are available online.
-2. Knowldege Base construction using data mining and information extraction techniques. Knowledge representation and reasoning are central to Artificial Intelligence. Extracting knowledge from data, setting up best representations of knowledge for your particular application and use case is a service that I can provide for you. See [this link](https://github.com/rajivsam/KMDS) for more details.
-3. Modelling and Data Analysis in support of application development for process automation or decision support. While a case study answers a specific set of questions, the product from this task is a model that is used in business operations. An application that dispatches tasks to an automatic workflow or to a human expert for further triaging is an example of a process automation task that can be accomplished with machine learning. An application to reject or approve an employee request for a particular resource is an example of a decision theoretic application.
-4. Forecasting Models
-5. Machine Learning model development on streaming data
-6. Model development for Big Data 
-7. Development of models based on combinatorial optimization
+Start a <a href="https://calendly.com/rajiv-sambasivan/30min"> conversation </a> with me today to explore getting your data science based business idea to fruition. The [process section]({%link process.markdown %}) provides the details of the process I would follow to develop an understanding of your problem. See the [services section]({%link services.markdown %}) for a list of services I provide. 
 {: style="text-align: justify"}
-
 ## Bibliography
 {% bibliography --cited %}
 
