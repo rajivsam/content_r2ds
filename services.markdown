@@ -7,9 +7,12 @@ description: "Services Provided"
 permalink: /interests/
 nav_order: 6
 ---
-{: style="text-align: justify"} 
+
 
 This site may give you a flavor of the the kind of problems I am interested in, but there is much to add and this is a work in progress. I spent a long time developing software for business tasks in various domains, and I have a strong interest in the intersection of data science and software engineering. I can work with your data science team on the following tasks:
+{: style="text-align: justify"} 
+
+{: style="text-align: justify"} 
 * Applying data science to understand and extract insights from operational data.
 
 * Working with your data science team on framing business problems in terms of data science and machine learning. Translating business KPIs into model metrics and vice versa takes experience and practice. I have worked with data science teams in the past to help them with this translation.
@@ -22,7 +25,6 @@ This site may give you a flavor of the the kind of problems I am interested in, 
 
 * Working with your optimization team on interfacing machine learning and statistical models with optimization models. This is a very interesting area of research and has gained traction in the past decade. Many optimization and planning problems are stochastic in nature. They have to take uncertainty into account. This uncertainty can be modeled with machine learning and statistical models. For example, the weather can be a stochastic variable in a planning problem. If you are an agricultural company, you may want to use machine learning models to predict the weather. You can then use these predictions in your optimization models. If you are a retailer with perishable goods, you may want to use machine learning models to predict demand. You can then use these predictions to plan your inventory. Stochastic optimization is not esoteric anymore, thanks to the quality of optimization tools that are available today.
 
-{: style="text-align: justify"}
 
 
 
