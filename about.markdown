@@ -5,17 +5,14 @@ description: "What I can do for you"
 permalink: /about/
 nav_order: 2
 ---
-At its core, developing a data science solution for a business challenge involves breaking down the functional task into well-established data science task primitives. While there are only a few such primitives (see {% cite provost2013data %} for details), this process is rarely straightforward. A naive approach often exposes hidden challenges, such as unverified modeling assumptions or suboptimal models that are expensive to build and maintain. {% cite pyle1999data %}, though dated, offers timeless guidance and a comprehensive overview of the tasks involved in a typical data science project.
+{: style="text-align: justify"}
+Data science has a lot of value to offer to businesses if applied correctly. This aspect of data science is similar to developing great software. Sure great software needs good code, but to be useful, it needs to implement the right features with the right user experience. With the current hype around AI, it is quite easy to do what everybody does and ask an agent to implement your solution for you. AI assistants are great as assistants, to generate code, but solving the right problem is still a human task. The AI agent can help you with the code, but it cannot help you with how to frame the problem correctly. This requires a human with the right experience and skill set.  
+
 {: style="text-align: justify"} 
+Data science solutions are developed iteratively, the right skill set and experience can vastly improve the number of iterations it takes to get to a solution that is useful. I have been developing driven software solutions for over 25 years, and I have developed a set of skills that can help you get to a solution that is useful for your business. 
 
-Creating a successful data science model often requires significant exploration, including collaboration with business stakeholders and iterative modeling experiments. Success hinges on the ability of the data science team to ask the right questions and frame the problem correctly. This demands skill, experience, and sound engineering judgment. {% cite provost2013data %} encapsulates this idea succinctly: 
 {: style="text-align: justify"} 
-
-> A critical skill in data science is the ability to decompose a data- analytics problem into pieces such that each piece matches a known task for which tools are available. Recognizing familiar problems and their solutions avoids wasting time and resources reinventing the wheel. It also allows people to focus attention on more interesting parts of the process that require human involvement—parts that have not been automated, so human creativity and intelligence must come in‐ to play. 
-> {: style="text-align: justify"} 
-
 If you’re ready to bring your data science-driven business idea to life, <a href="https://calendly.com/rajiv-sambasivan/30min">schedule a conversation</a> with me today. For an overview of my approach, visit the [process section]({% link process.markdown %}). To explore the range of services I offer, check out the [services section]({% link services.markdown %}). You can also explore topics of interest on my <a href="https://rajivsam.github.io/r2ds-blog/">blog</a>.
  {: style="text-align: justify"}
-## Bibliography
-{% bibliography --cited %}
+
 
