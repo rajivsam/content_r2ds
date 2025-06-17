@@ -19,8 +19,9 @@ This site may give you a flavor of the the kind of problems I am interested in, 
     * Monitoring key behaviors, actions, or performance metrics
     * Building descriptive models for customer or process segmentation
     * Creating prescriptive models that recommend actions to prevent negative outcomes or improve the likelihood of success—for example, optimizing help desk ticket triage
-
-For practical examples, see [this blog](https://rajivsam.github.io/r2ds-blog/).
+ 
+{: style="text-align: justify"} 
+* For practical examples, see [this repository](https://github.com/rajivsam/descriptive_analytics/). *Effectively framing a business challenge as a data science problem requires experience, careful analysis, and close collaboration. Automated or "cookbook" approaches often fall short, leading to models that are difficult to interpret or deploy in production. I can partner with your team to guide the initial iterations of your machine learning or optimization initiatives—helping you identify the most relevant data sources, select suitable modeling techniques, and ensure that results are both interpretable and actionable. This approach increases the likelihood of building solutions that deliver real business value and are ready for operational use.* 
 
 {: style="text-align: justify"} 
 * Collaborating with your data science team to frame business challenges as data science and machine learning problems. Effectively translating business KPIs into actionable model metrics—and interpreting model results in business terms—requires both technical expertise and domain understanding. I have experience guiding teams through this process, ensuring alignment between business objectives and data-driven solutions. For practical examples, see [this GitHub repository](https://github.com/rajivsam/kmds_recipes/wiki) and the associated [tool](https://github.com/rajivsam/kmds). For a representative publication, refer to [this article](https://www.sciencedirect.com/science/article/pii/S2666827021001195).
