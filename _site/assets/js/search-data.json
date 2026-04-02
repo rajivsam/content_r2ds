@@ -6,13 +6,20 @@
     
     "relUrl": "/about/"
   },"1": {
+    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "title": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "content": ". When executed effectively, data science solutions for enterprise applications can achieve a rinse and repeat quality—meaning the process for updating or extending a solution (such as for a new business cycle) becomes streamlined and repeatable. However, reaching this level of maturity is challenging. It usually takes a few iterations to get to something that one wants to repeat and improve on. This, however, takes experience, skills, and understanding the dynamics of your business. I can help you with this. I am a seasoned data scientist. Please see this link for a professional summary and published work (Google Scholar link). Here are some samples of the kind of analyses that I can do for you. The services section of this website provides some representative services that I can provide. These are representative examples. If you have a business task that you want to augment or implement with data science, I would appreciate a conversation to explore if this task falls in my wheelhouse. I have developed a simple open-source tool to document and maintain analytics and machine learning projects. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"2": {
     "doc": "The Process",
     "title": "The Process",
     "content": "My approach to problem-solving is centered around understanding your specific needs and goals, the data you have, and the constraints you have in terms of time, budget, and resources. I believe that every problem is unique, and therefore requires a tailored solution. If we agree to work together, I will work with you develop an iteration plan that gets us to a solution that is useful for your business. For detailed information about the tools and methodology used to develop your solution, visit the KMDS GitHub repository. ",
     "url": "/process/",
     
     "relUrl": "/process/"
-  },"2": {
+  },"3": {
     "doc": "Services Provided",
     "title": "Services Provided",
     "content": ". | Working with small or medium sized businesses that have raw data but need help in priming thier AI/ML enablement | Solution providers who need project based assistance with ML tasks. If you are an enterprise software or data products developer who needs help with a specific AI/ML usecase, please reach out. | . | For practical examples, see this repository. Effectively framing a business challenge as a data science problem requires experience, careful analysis, and close collaboration. Automated or “cookbook” approaches often fall short, leading to models that are difficult to interpret or deploy in production. I can partner with your team to guide the initial iterations of your machine learning or optimization initiatives—helping you identify the most relevant data sources, select suitable modeling techniques, and ensure that results are both interpretable and actionable. This approach increases the likelihood of building solutions that deliver real business value and are ready for operational use. | . ",
