@@ -21,16 +21,28 @@
 title: Rinse and Repeat Data Science
 email: your-email@example.com
 description: |
-  Framing your usecase in terms of known problem patterns is a task that requires
-  deep technical skills, practioner experience and engineering judgement. A seasoned data scientist
-  can help you get your vision to fruition. The first version of the solution is what is typically
-  difficult. Subsequently, it is usually rinse and repeat.
+  Framing your use case in terms of known problem patterns is a task that requires
+  deep technical skill, practitioner experience, and engineering judgment. A seasoned data scientist
+  can help you turn your vision into a practical solution. The first version is usually the hardest;
+  after that, it becomes rinse and repeat.
 author: Rajiv Sambasivan
 
-url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: 
+url: "https://www.r2-ds.com"
+baseurl: ""
+lang: en-US
 twitter_username: rajiv_s
 github_username:  rajivsam
+logo: /assets/images/logonav_resized.png
+
+social:
+  name: Rinse and Repeat Data Science
+  links:
+    - https://github.com/rajivsam
+    - https://rajivsam.github.io/
+
+twitter:
+  username: rajiv_s
+  card: summary_large_image
 
 math: katex
 
