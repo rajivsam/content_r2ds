@@ -15,16 +15,18 @@ og_type: website
 ![rinse and repeat logo](assets/images/logonav_resized.png)
 {: refdef}
 
-When executed effectively, data science solutions for enterprise applications can achieve a _rinse-and-repeat_ quality, meaning the process for updating or extending a solution (such as for a new business cycle) becomes streamlined and repeatable. However, reaching this level of maturity is challenging. It usually takes a few iterations to arrive at something worth repeating and improving. This takes experience, skill, and an understanding of your business dynamics. Getting to this point definitely involves making the right technical choices, but it also requires developing a deeper understanding and intuition about your data, use case, and how they relate. _Descriptive Analytics_ has the tools for this, and this is what I can help you with.
-{: style="text-align: justify"} 
 
-I am a seasoned data scientist. Please see [this link](https://rajivsam.github.io/) for a professional summary and published work (including my Google Scholar profile). [Here](https://www.youtube.com/playlist?list=PL-lbroKJyNLDJ44l60GvHgcYtFh0pNFek) are samples of the kinds of analyses I can do for you. If you have a business task that you want to augment or implement with data science, I would [appreciate a conversation](https://calendly.com/rajiv-sambasivan/help-with-kmds-feature) to explore whether this task falls within my wheelhouse. I have also developed a [simple open-source tool](https://www.youtube.com/watch?v=n7gE6bfLWtI) to document and maintain analytics and machine learning projects.
-  {: style="text-align: justify"}
 
-{: style="text-align: justify"}
-### Ready to move from ideas to implementation?
+# De-Risking Enterprise AI Adoption & Machine Learning Implementation
 
-If you have a business-critical use case in mind, let's evaluate it together and define a practical first iteration.
+I help enterprise engineering teams navigate the complex transition from machine learning prototypes to stable, production-grade business applications. 
 
-<a href="https://calendly.com/rajiv-sambasivan/30min" class="btn btn-primary">Book a 30-minute consultation</a>
-<a href="{% link services.markdown %}" class="btn">Explore services</a>
+With a background combining machine learning research (ML PhD) and practical software design, I work alongside technical leaders to mitigate execution risks, structural bottlenecks, and the engineering debt that frequently stall corporate AI initiatives.
+
+## Frameworks That Support Implementation Velocity
+To streamline the development lifecycle, my consulting framework integrates open-source engineering assets designed to bring structure to data science workflows:
+
+*   **Data Science Knowledge Governance (`KMDS`):** An ontology-backed workflow engine that captures experimental rationale, organizes engineering context, and preserves corporate IP during team transitions.
+*   **Rigorous Engineering Exploration (`tseda`):** Analytical methodologies that automate early-stage data diagnostics, shortening the validation cycle for complex business use cases.
+
+[Explore Consulting Services](/services/) | [View Technical Research on Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
