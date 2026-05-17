@@ -15,18 +15,68 @@ og_type: website
 ![rinse and repeat logo](assets/images/logonav_resized.png)
 {: refdef}
 
+# Graph-Based Machine Learning and Analytical Systems Engineering
+
+Building interpretable machine learning systems, knowledge-oriented analytical infrastructure, and scalable graph-centric platforms for enterprise and research applications.
 
 
-# De-Risking Enterprise AI Adoption & Machine Learning Implementation
+---
 
-I help enterprise engineering teams navigate the complex transition from machine learning prototypes to stable, production-grade business applications. 
+## Analytical Systems Beyond Isolated Models
 
-With a background combining machine learning research (ML PhD) and practical software design, I work alongside technical leaders to mitigate execution risks, structural bottlenecks, and the engineering debt that frequently stall corporate AI initiatives.
+Modern machine learning systems fail less from model limitations than from fragmented analytical context, disconnected workflows, weak semantic lineage, and poor interpretability across enterprise environments.
 
-## Frameworks That Support Implementation Velocity
-To streamline the development lifecycle, my consulting framework integrates open-source engineering assets designed to bring structure to data science workflows:
+My work focuses on solving analytically complex business problems with measurable operational and decision-making impact. This includes building systems that preserve relationships between data, models, workflows, metadata, and operational knowledge through graph-oriented machine learning systems, reproducible analytical infrastructure, optimization frameworks, and interpretable statistical learning systems designed for enterprise and research use cases. KMDS is a tool that I have built to support this, please see the [GitHub repository](https://github.com/rajivsam/KMDS) for more information.
 
-*   **Data Science Knowledge Governance (`KMDS`):** An ontology-backed workflow engine that captures experimental rationale, organizes engineering context, and preserves corporate IP during team transitions.
-*   **Rigorous Engineering Exploration (`tseda`):** Analytical methodologies that automate early-stage data diagnostics, shortening the validation cycle for complex business use cases.
+---
+
+## Technical Focus Areas
+
+
+- Statistical Learning Systems
+- Graph Machine Learning
+- Analytical Infrastructure
+- Optimization & Recommendation Systems
+- Explainable AI Systems
+- Knowledge Graph Systems for ML & AI system explainablity and traceablity
+
+---
+
+
+
+## Selected Publications
+
+Selected publications and research contributions spanning scalable statistical learning, graph-oriented analytical systems, optimization, and enterprise-scale machine learning infrastructure are available on my Google Scholar profile.
+
+[View Google Scholar Profile](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
+
+---
+
+## Research Philosophy
+
+I am interested in analytical systems that combine mathematical rigor, interpretability, graph-based representations, scalable systems engineering, and operational reproducibility within enterprise environments.
+
+This intersection between statistical learning, systems architecture, and knowledge representation forms the foundation of my current work.
+
+---
+
+
+## Current Areas of Interest
+
+- Graph-centric machine learning systems
+- Knowledge-oriented analytical infrastructure
+- Interpretable statistical learning
+- Analytical lineage and reproducibility
+- Enterprise-scale ML systems architecture
+- Semantic systems for applied AI
+
+---
+
+## Contact
+
+For discussions related to analytical systems architecture, graph machine learning, optimization systems, interpretable ML infrastructure, and research collaborations.
+Available for contract and advisory engagements with U.S. organizations
+
+[LinkedIn](https://www.linkedin.com/in/rajiv-sambasivan/) · [GitHub](https://github.com/rajivsam/) 
 
 [Explore Consulting Services](/services/) | [View Technical Research on Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)

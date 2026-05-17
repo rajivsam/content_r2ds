@@ -21,25 +21,16 @@
 title: Rinse and Repeat Data Science
 email: your-email@example.com
 description: |
-  "High-Velocity Data Science Architecture & Consulting by Rajiv Sambasivan, PhD."
+  Framing your usecase in terms of known problem patterns is a task that requires
+  deep technical skills, practioner experience and engineering judgement. A seasoned data scientist
+  can help you get your vision to fruition. The first version of the solution is what is typically
+  difficult. Subsequently, it is usually rinse and repeat!
 author: Rajiv Sambasivan
 
-url: "https://www.r2-ds.com"
-baseurl: ""
-lang: en-US
+url: # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: 
 twitter_username: rajiv_s
 github_username:  rajivsam
-logo: /assets/images/logonav_resized.png
-
-social:
-  name: Rinse and Repeat Data Science
-  links:
-    - https://github.com/rajivsam
-    - https://rajivsam.github.io/
-
-twitter:
-  username: rajiv_s
-  card: summary_large_image
 
 math: katex
 
