@@ -1,18 +1,67 @@
 {"0": {
     "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "title": "Graph-Based Machine Learning and Analytical Systems Engineering",
+    "content": "I help organizations transform operational data into repeatable analytical systems for monthly and quarterly decision-making. My work focuses on the full analytical lifecycle: dataset modernization, metadata capture, feature engineering, machine learning, and knowledge preservation. ",
+    "url": "/#graph-based-machine-learning-and-analytical-systems-engineering",
+    
+    "relUrl": "/#graph-based-machine-learning-and-analytical-systems-engineering"
+  },"1": {
+    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "title": "Analytical Systems Beyond Isolated Models",
+    "content": "Modern machine learning systems fail less from model limitations than from fragmented analytical context, disconnected workflows, weak semantic lineage, and poor interpretability across enterprise environments. My work focuses on solving analytically complex business problems with measurable operational and decision-making impact. This includes building systems that preserve relationships between data, models, workflows, metadata, and operational knowledge through graph-oriented machine learning systems, reproducible analytical infrastructure, optimization frameworks, and interpretable statistical learning systems designed for enterprise and research use cases. KMDS is a tool that I have built to support this, please see the GitHub repository for more information. ",
+    "url": "/#analytical-systems-beyond-isolated-models",
+    
+    "relUrl": "/#analytical-systems-beyond-isolated-models"
+  },"2": {
+    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "title": "Technical Focus Areas",
+    "content": ". | Statistical Learning Systems | Graph Machine Learning | Analytical Infrastructure | Optimization &amp; Recommendation Systems | Explainable AI Systems | Knowledge Graph Systems for ML &amp; AI system explainablity and traceablity | . ",
+    "url": "/#technical-focus-areas",
+    
+    "relUrl": "/#technical-focus-areas"
+  },"3": {
+    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "title": "Selected Publications",
+    "content": "Selected publications and research contributions spanning scalable statistical learning, graph-oriented analytical systems, optimization, and enterprise-scale machine learning infrastructure are available on my Google Scholar profile. View Google Scholar Profile . ",
+    "url": "/#selected-publications",
+    
+    "relUrl": "/#selected-publications"
+  },"4": {
+    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "title": "Research Philosophy",
+    "content": "I am interested in analytical systems that combine mathematical rigor, interpretability, graph-based representations, scalable systems engineering, and operational reproducibility within enterprise environments. This intersection between statistical learning, systems architecture, and knowledge representation forms the foundation of my current work. ",
+    "url": "/#research-philosophy",
+    
+    "relUrl": "/#research-philosophy"
+  },"5": {
+    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "title": "Current Areas of Interest",
+    "content": ". | Graph-centric machine learning systems | Knowledge-oriented analytical infrastructure | Interpretable statistical learning | Analytical lineage and reproducibility | Enterprise-scale ML systems architecture | Semantic systems for applied AI | . ",
+    "url": "/#current-areas-of-interest",
+    
+    "relUrl": "/#current-areas-of-interest"
+  },"6": {
+    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "title": "Contact",
+    "content": "For discussions related to analytical systems architecture, graph machine learning, optimization systems, interpretable ML infrastructure, and research collaborations. Available for contract and advisory engagements with U.S. organizations . LinkedIn · GitHub . | Explore Consulting Services | View Technical Research on Google Scholar | . ",
+    "url": "/#contact",
+    
+    "relUrl": "/#contact"
+  },"7": {
+    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
     "title": "AI Expert Consulting | Data Science & Machine Learning Services",
-    "content": ". I am a mathematically grounded senior ML systems and algorithms practitioner specializing in interpretable statistical learning, graph methods, and enterprise-scale analytical systems. I help enterprise engineering teams navigate the complex transition from machine learning prototypes to stable, production-grade business applications. With a background combining machine learning research (ML PhD) and practical software design, I work alongside technical leaders to mitigate execution risks, structural bottlenecks, and the engineering debt that frequently stall corporate AI initiatives. To streamline the development lifecycle, my consulting framework integrates open-source engineering assets designed to bring structure to data science workflows: . | Data Science Knowledge Governance (KMDS): An ontology-backed workflow engine that captures experimental rationale, organizes engineering context, and preserves corporate IP during team transitions. | Rigorous Engineering Exploration (tseda): Analytical methodologies that automate early-stage data diagnostics, shortening the validation cycle for complex business use cases. | . | Explore Consulting Services | View Technical Research on Google Scholar | . ",
+    "content": ". ",
     "url": "/",
     
     "relUrl": "/"
-  },"1": {
+  },"8": {
     "doc": "Data Science Consulting Process",
     "title": "Data Science Consulting Process",
     "content": "My approach to problem-solving is centered around understanding your specific needs and goals, the data you have, and your constraints in terms of time, budget, and resources. I believe that every problem is unique and therefore requires a tailored solution. If we agree to work together, I will work with you to develop an iteration plan that gets us to a solution that is useful for your business. For detailed information about the tools and methodology used to develop your solution, visit the KMDS GitHub repository. Want to apply this process to your own project? Schedule a consultation and we can map out your first iteration plan. ",
     "url": "/process/",
     
     "relUrl": "/process/"
-  },"2": {
+  },"9": {
     "doc": "AI & ML Consulting Services",
     "title": "AI & ML Consulting Services",
     "content": "I help organizations turn AI and machine learning ideas into practical, business-impacting solutions. My work combines data science strategy, hands-on model development, and implementation planning so teams can move from experimentation to repeatable execution. Core Skills . | Business problem framing for AI/ML initiatives | Descriptive and predictive analytics for decision support | Feature design and model development for enterprise use cases | Graph-based analytics when data dependencies matter | Relational-to-graph transformation for complex enterprise datasets | Iterative solution design focused on interpretability and deployment readiness | . Service Offerings . | AI/ML roadmap and opportunity assessment | Discovery and data-readiness analysis | Rapid proof-of-value and early model iterations | Analytics architecture guidance and workflow design | Advisory support for solution teams building AI-enabled products | Coaching and enablement for teams adopting data-driven practices | . My consulting and content development experience spans multiple cultural and business contexts, including the US, India, and Europe. For practical examples, explore Descriptive Analytics Recipes. If you are evaluating a new initiative, book a discovery call to discuss scope, feasibility, and execution. ",

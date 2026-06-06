@@ -17,8 +17,7 @@ og_type: website
 
 # Graph-Based Machine Learning and Analytical Systems Engineering
 
-Building interpretable machine learning systems, knowledge-oriented analytical infrastructure, and scalable graph-centric platforms for enterprise and research applications.
-
+I help organizations transform operational data into repeatable analytical systems for monthly and quarterly decision-making. My work focuses on the full analytical lifecycle: dataset modernization, metadata capture, feature engineering, machine learning, and knowledge preservation. 
 
 ---
 
