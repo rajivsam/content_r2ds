@@ -1,70 +1,84 @@
 {"0": {
-    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "doc": "Operational Data Analytics Consulting | Repeatable Decision Systems",
     "title": "Graph-Based Machine Learning and Analytical Systems Engineering",
-    "content": "I help organizations transform operational data into repeatable analytical systems for monthly and quarterly decision-making. My work focuses on the full analytical lifecycle: dataset modernization, metadata capture, feature engineering, machine learning, and knowledge preservation. ",
+    "content": "I help organizations transform operational data into repeatable analytical systems for monthly and quarterly decision-making. What I do: Build analytical systems for operational business data. Who it is for: Organizations that collect large amounts of operational data and need dependable monthly or quarterly decisions. Why me: 25+ years across software engineering, analytics, optimization, and machine learning, backed by a PhD in Machine Learning (Chennai Mathematical Institute). ",
     "url": "/#graph-based-machine-learning-and-analytical-systems-engineering",
     
     "relUrl": "/#graph-based-machine-learning-and-analytical-systems-engineering"
   },"1": {
-    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
-    "title": "Analytical Systems Beyond Isolated Models",
-    "content": "Modern machine learning systems fail less from model limitations than from fragmented analytical context, disconnected workflows, weak semantic lineage, and poor interpretability across enterprise environments. My work focuses on solving analytically complex business problems with measurable operational and decision-making impact. This includes building systems that preserve relationships between data, models, workflows, metadata, and operational knowledge through graph-oriented machine learning systems, reproducible analytical infrastructure, optimization frameworks, and interpretable statistical learning systems designed for enterprise and research use cases. KMDS is a tool that I have built to support this, please see the GitHub repository for more information. ",
-    "url": "/#analytical-systems-beyond-isolated-models",
+    "doc": "Operational Data Analytics Consulting | Repeatable Decision Systems",
+    "title": "How Operational Data Becomes Decisions",
+    "content": "Operational Data | v Data Understanding | v Cleaning and Standardization | v Feature Engineering | v Machine Learning | v Knowledge Preservation | v Business Decisions . ",
+    "url": "/#how-operational-data-becomes-decisions",
     
-    "relUrl": "/#analytical-systems-beyond-isolated-models"
+    "relUrl": "/#how-operational-data-becomes-decisions"
   },"2": {
-    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "doc": "Operational Data Analytics Consulting | Repeatable Decision Systems",
+    "title": "How I Work",
+    "content": ". | Understand the operational process and decision cycle. | Audit and profile available data. | Modernize and document datasets. | Create reusable features and analytical assets. | Build and validate analytical models. | Preserve analytical knowledge for repeatability. | . ",
+    "url": "/#how-i-work",
+    
+    "relUrl": "/#how-i-work"
+  },"3": {
+    "doc": "Operational Data Analytics Consulting | Repeatable Decision Systems",
+    "title": "Methodology Before Tooling",
+    "content": "Most analytics projects underperform not because models are weak, but because the surrounding system is not repeatable. Common failure points include fragmented data context, inconsistent definitions, missing lineage, and poor handoff between business and technical teams. My consulting work is designed to solve that system-level problem first: reliable data foundations, reusable feature pipelines, clear model assumptions, and durable analytical documentation. Tooling such as KMDS supports this method. See the KMDS repository for implementation details. ",
+    "url": "/#methodology-before-tooling",
+    
+    "relUrl": "/#methodology-before-tooling"
+  },"4": {
+    "doc": "Operational Data Analytics Consulting | Repeatable Decision Systems",
     "title": "Technical Focus Areas",
-    "content": ". | Statistical Learning Systems | Graph Machine Learning | Analytical Infrastructure | Optimization &amp; Recommendation Systems | Explainable AI Systems | Knowledge Graph Systems for ML &amp; AI system explainablity and traceablity | . ",
+    "content": ". | Statistical Learning Systems | Graph Machine Learning | Analytical Infrastructure | Optimization &amp; Recommendation Systems | Explainable AI Systems | Knowledge Graph Systems for ML and AI explainability and traceability | . ",
     "url": "/#technical-focus-areas",
     
     "relUrl": "/#technical-focus-areas"
-  },"3": {
-    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+  },"5": {
+    "doc": "Operational Data Analytics Consulting | Repeatable Decision Systems",
     "title": "Selected Publications",
     "content": "Selected publications and research contributions spanning scalable statistical learning, graph-oriented analytical systems, optimization, and enterprise-scale machine learning infrastructure are available on my Google Scholar profile. View Google Scholar Profile . ",
     "url": "/#selected-publications",
     
     "relUrl": "/#selected-publications"
-  },"4": {
-    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+  },"6": {
+    "doc": "Operational Data Analytics Consulting | Repeatable Decision Systems",
     "title": "Research Philosophy",
     "content": "I am interested in analytical systems that combine mathematical rigor, interpretability, graph-based representations, scalable systems engineering, and operational reproducibility within enterprise environments. This intersection between statistical learning, systems architecture, and knowledge representation forms the foundation of my current work. ",
     "url": "/#research-philosophy",
     
     "relUrl": "/#research-philosophy"
-  },"5": {
-    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+  },"7": {
+    "doc": "Operational Data Analytics Consulting | Repeatable Decision Systems",
     "title": "Current Areas of Interest",
     "content": ". | Graph-centric machine learning systems | Knowledge-oriented analytical infrastructure | Interpretable statistical learning | Analytical lineage and reproducibility | Enterprise-scale ML systems architecture | Semantic systems for applied AI | . ",
     "url": "/#current-areas-of-interest",
     
     "relUrl": "/#current-areas-of-interest"
-  },"6": {
-    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+  },"8": {
+    "doc": "Operational Data Analytics Consulting | Repeatable Decision Systems",
     "title": "Contact",
     "content": "For discussions related to analytical systems architecture, graph machine learning, optimization systems, interpretable ML infrastructure, and research collaborations. Available for contract and advisory engagements with U.S. organizations . LinkedIn · GitHub . | Explore Consulting Services | View Technical Research on Google Scholar | . ",
     "url": "/#contact",
     
     "relUrl": "/#contact"
-  },"7": {
-    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
-    "title": "AI Expert Consulting | Data Science & Machine Learning Services",
+  },"9": {
+    "doc": "Operational Data Analytics Consulting | Repeatable Decision Systems",
+    "title": "Operational Data Analytics Consulting | Repeatable Decision Systems",
     "content": ". ",
     "url": "/",
     
     "relUrl": "/"
-  },"8": {
+  },"10": {
     "doc": "Data Science Consulting Process",
     "title": "Data Science Consulting Process",
-    "content": "My approach to problem-solving is centered around understanding your specific needs and goals, the data you have, and your constraints in terms of time, budget, and resources. I believe that every problem is unique and therefore requires a tailored solution. If we agree to work together, I will work with you to develop an iteration plan that gets us to a solution that is useful for your business. For detailed information about the tools and methodology used to develop your solution, visit the KMDS GitHub repository. Want to apply this process to your own project? Schedule a consultation and we can map out your first iteration plan. ",
+    "content": "Every organization has a unique operational context, but strong analytical systems are built through a repeatable method. My process is designed to turn messy operational datasets into dependable decision support that can be reused over time. Six-Step Working Method . | Understand the operational process and decision cadence. | Analyze the current datasets, quality issues, and constraints. | Modernize and document data structures and definitions. | Build reusable feature engineering components. | Develop and validate analytical or machine learning models. | Preserve analytical knowledge for repeatable execution. | . Delivery Rhythm . | Define one high-value decision workflow first. | Build an initial version that is usable by stakeholders. | Review results and operational fit with domain teams. | Iterate toward a stable monthly or quarterly cycle. | Capture assumptions, metadata, and handoff documentation. | . This approach is intentionally outcome-focused: usable decision systems first, then broader tooling and automation where it adds measurable value. For detailed information about the tools and methodology used to develop your solution, visit the KMDS GitHub repository. Want to apply this process to your own project? Schedule a consultation and we can map out your first iteration plan. ",
     "url": "/process/",
     
     "relUrl": "/process/"
-  },"9": {
-    "doc": "AI & ML Consulting Services",
-    "title": "AI & ML Consulting Services",
-    "content": "I help organizations turn AI and machine learning ideas into practical, business-impacting solutions. My work combines data science strategy, hands-on model development, and implementation planning so teams can move from experimentation to repeatable execution. Core Skills . | Business problem framing for AI/ML initiatives | Descriptive and predictive analytics for decision support | Feature design and model development for enterprise use cases | Graph-based analytics when data dependencies matter | Relational-to-graph transformation for complex enterprise datasets | Iterative solution design focused on interpretability and deployment readiness | . Service Offerings . | AI/ML roadmap and opportunity assessment | Discovery and data-readiness analysis | Rapid proof-of-value and early model iterations | Analytics architecture guidance and workflow design | Advisory support for solution teams building AI-enabled products | Coaching and enablement for teams adopting data-driven practices | . My consulting and content development experience spans multiple cultural and business contexts, including the US, India, and Europe. For practical examples, explore Descriptive Analytics Recipes. If you are evaluating a new initiative, book a discovery call to discuss scope, feasibility, and execution. ",
+  },"11": {
+    "doc": "Operational Data Analytics Consulting Services",
+    "title": "Operational Data Analytics Consulting Services",
+    "content": "I help organizations build repeatable analytical systems around operational business data. The focus is not only on model performance, but on creating a durable decision workflow that can be reused each month and quarter. Who This Is For . | Organizations with operational datasets spread across legacy systems and reporting workflows | Teams making recurring monthly or quarterly planning, forecasting, pricing, or resource decisions | Leaders who need analytical outputs that are reproducible and understandable across stakeholders | . Core Capabilities . | Operational process and decision-cycle mapping | Data understanding, profiling, and quality analysis | Dataset modernization and metadata capture | Reusable feature engineering and analytical asset development | Statistical and machine learning model development | Analytical knowledge preservation for repeatability and handoff | . Service Offerings . | Discovery and analytical system assessment | Legacy data cleanup, standardization, and structure modernization | Feature engineering frameworks for recurring analysis | Predictive and optimization model development | Repeatable workflow design for monthly and quarterly execution | Advisory support for internal teams and solution owners | . Typical Engagement Outcomes . | Reduced time-to-analysis for recurring business questions | Better consistency in definitions, metrics, and model inputs | Clearer model interpretation and decision traceability | Reusable analytical documentation and implementation playbooks | . My consulting and content development experience spans multiple cultural and business contexts, including the US, India, and Europe. For practical examples, explore Descriptive Analytics Recipes. If you are evaluating a new initiative, book a discovery call to discuss scope, feasibility, and execution. ",
     "url": "/services/",
     
     "relUrl": "/services/"

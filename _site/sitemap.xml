@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>/process/</loc>
+<loc>http://localhost:4000/process/</loc>
 </url>
 <url>
-<loc>/services/</loc>
+<loc>http://localhost:4000/services/</loc>
 </url>
 <url>
-<loc>/default.html</loc>
+<loc>http://localhost:4000/default.html</loc>
 <lastmod>2026-02-04T13:46:54+05:30</lastmod>
 </url>
 </urlset>

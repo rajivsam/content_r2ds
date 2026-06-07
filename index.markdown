@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 nav_order: 1
-title: "AI Expert Consulting | Data Science & Machine Learning Services"
-description: "Experienced AI expert specializing in data science, machine learning, predictive modeling, and repeatable enterprise analytics workflows. Ideal for businesses seeking AI strategy, model development, and data-driven solutions."
-keywords: "AI expert, data scientist, machine learning consultant, predictive analytics, enterprise AI, AI strategy, model development, data science services"
+title: "Operational Data Analytics Consulting | Repeatable Decision Systems"
+description: "I help organizations turn operational data into repeatable analytical systems for monthly and quarterly decision-making through dataset modernization, feature engineering, and machine learning."
+keywords: "operational data analytics consulting, repeatable analytical systems, data modernization, feature engineering consultant, machine learning consulting"
 permalink: "/"
 image: /assets/images/workflow.png
 image_alt: "Workflow diagram for repeatable data science delivery"
@@ -17,15 +17,58 @@ og_type: website
 
 # Graph-Based Machine Learning and Analytical Systems Engineering
 
-I help organizations transform operational data into repeatable analytical systems for monthly and quarterly decision-making. My work focuses on the full analytical lifecycle: dataset modernization, metadata capture, feature engineering, machine learning, and knowledge preservation. 
+I help organizations transform operational data into repeatable analytical systems for monthly and quarterly decision-making.
+
+What I do: Build analytical systems for operational business data.
+
+Who it is for: Organizations that collect large amounts of operational data and need dependable monthly or quarterly decisions.
+
+Why me: 25+ years across software engineering, analytics, optimization, and machine learning, backed by a PhD in Machine Learning (Chennai Mathematical Institute).
 
 ---
 
-## Analytical Systems Beyond Isolated Models
+## How Operational Data Becomes Decisions
 
-Modern machine learning systems fail less from model limitations than from fragmented analytical context, disconnected workflows, weak semantic lineage, and poor interpretability across enterprise environments.
+```text
+Operational Data
+	|
+	v
+Data Understanding
+	|
+	v
+Cleaning and Standardization
+	|
+	v
+Feature Engineering
+	|
+	v
+Machine Learning
+	|
+	v
+Knowledge Preservation
+	|
+	v
+Business Decisions
+```
 
-My work focuses on solving analytically complex business problems with measurable operational and decision-making impact. This includes building systems that preserve relationships between data, models, workflows, metadata, and operational knowledge through graph-oriented machine learning systems, reproducible analytical infrastructure, optimization frameworks, and interpretable statistical learning systems designed for enterprise and research use cases. KMDS is a tool that I have built to support this, please see the [GitHub repository](https://github.com/rajivsam/KMDS) for more information.
+---
+
+## How I Work
+
+1. Understand the operational process and decision cycle.
+2. Audit and profile available data.
+3. Modernize and document datasets.
+4. Create reusable features and analytical assets.
+5. Build and validate analytical models.
+6. Preserve analytical knowledge for repeatability.
+
+---
+
+## Methodology Before Tooling
+
+Most analytics projects underperform not because models are weak, but because the surrounding system is not repeatable. Common failure points include fragmented data context, inconsistent definitions, missing lineage, and poor handoff between business and technical teams.
+
+My consulting work is designed to solve that system-level problem first: reliable data foundations, reusable feature pipelines, clear model assumptions, and durable analytical documentation. Tooling such as KMDS supports this method. See the [KMDS repository](https://github.com/rajivsam/KMDS) for implementation details.
 
 ---
 
@@ -37,7 +80,7 @@ My work focuses on solving analytically complex business problems with measurabl
 - Analytical Infrastructure
 - Optimization & Recommendation Systems
 - Explainable AI Systems
-- Knowledge Graph Systems for ML & AI system explainablity and traceablity
+- Knowledge Graph Systems for ML and AI explainability and traceability
 
 ---
 
