@@ -21,14 +21,30 @@ What I do: Turn complex operational datasets into usable decision workflows for 
 
 Who it is for: Organizations that collect operational data frequently and need dependable monthly or quarterly decisions.
 
+What makes this different is an opinionated methodology for operational analytics: not just a model, but a repeatable workflow for periodic business decisions.
+
 ---
 
-## Featured Case Study
+## Methodology
 
-Operational data often loses value when the analytical workflow is not repeatable.
+1. Identify the business decision.
+2. Identify the unit of analysis.
+3. Understand temporal structure.
+4. Identify entities and relationships.
+5. Assess data quality.
+6. Design features.
+7. Select modeling strategy.
+8. Capture assumptions and operational risks.
+9. Preserve analytical knowledge.
+
+---
+
+## Featured SBA Example
+
+Raw SBA loan data becomes the hero story for a repeatable operational analytics workflow. This example shows how raw operational data is turned into a stable, repeatable decision process.
 
 ```text
-Raw SBA Data
+Raw SBA Loan Dataset
        ↓
 Dataset Understanding
        ↓
@@ -45,7 +61,7 @@ Knowledge Preservation
 Repeatable Business Decisions
 ```
 
-The same steps apply to lending, customer analytics, operations, demand forecasting, service delivery, and asset management.
+This is the same approach used for lending, customer analytics, operations, demand forecasting, service delivery, and asset management.
 
 ---
 
