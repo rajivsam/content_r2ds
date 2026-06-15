@@ -3,53 +3,58 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 nav_order: 1
-title: "Operational Data Analytics Consulting | Repeatable Decision Systems"
-description: "I help organizations turn operational data into repeatable analytical systems for monthly and quarterly decision-making through dataset modernization, feature engineering, and machine learning."
-keywords: "operational data analytics consulting, repeatable analytical systems, data modernization, feature engineering consultant, machine learning consulting"
+title: "Operational Analytics for Monthly and Quarterly Decision Making"
+description: "Transform operational data into repeatable analytical systems for monthly and quarterly decision-making."
+keywords: "operational analytics consulting, repeatable analytical systems, operational data modernization, analytical workflow design"
 permalink: "/"
-image: /assets/images/workflow.png
-image_alt: "Workflow diagram for repeatable data science delivery"
 og_type: website
 ---
 {:refdef: style="text-align: center;"}
 ![rinse and repeat logo](assets/images/logonav_resized.png)
 {: refdef}
 
-# Graph-Based Machine Learning and Analytical Systems Engineering
+# Operational Analytics for Monthly and Quarterly Decision Making
 
-I help organizations transform operational data into repeatable analytical systems for monthly and quarterly decision-making.
+I help organizations transform operational data into repeatable analytical systems that are transparent, auditable, and maintainable.
 
-What I do: Build analytical systems for operational business data.
+What I do: Turn complex operational datasets into usable decision workflows for recurring reporting and planning.
 
-Who it is for: Organizations that collect large amounts of operational data and need dependable monthly or quarterly decisions.
-
-Why me: 25+ years across software engineering, analytics, optimization, and machine learning, backed by a PhD in Machine Learning (Chennai Mathematical Institute).
+Who it is for: Organizations that collect operational data frequently and need dependable monthly or quarterly decisions.
 
 ---
 
-## How Operational Data Becomes Decisions
+## Featured Case Study
+
+Operational data often loses value when the analytical workflow is not repeatable.
 
 ```text
-Operational Data
-	|
-	v
-Data Understanding
-	|
-	v
-Cleaning and Standardization
-	|
-	v
+Raw SBA Data
+       ↓
+Dataset Understanding
+       ↓
+Entity Identification
+       ↓
+Cleaning Recommendations
+       ↓
 Feature Engineering
-	|
-	v
-Machine Learning
-	|
-	v
+       ↓
+Modeling Ready Dataset
+       ↓
 Knowledge Preservation
-	|
-	v
-Business Decisions
+       ↓
+Repeatable Business Decisions
 ```
+
+The same steps apply to lending, customer analytics, operations, demand forecasting, service delivery, and asset management.
+
+---
+
+## Who I Help
+
+- Organizations with operational data collected daily, weekly, or monthly
+- Teams that review decisions on a monthly or quarterly cadence
+- Leaders who need consistent definitions, lineage, and explainable decisions
+- Groups focused on lending, customer analytics, operations, forecasting, service delivery, or asset management
 
 ---
 
@@ -66,9 +71,14 @@ Business Decisions
 
 ## Methodology Before Tooling
 
-Most analytics projects underperform not because models are weak, but because the surrounding system is not repeatable. Common failure points include fragmented data context, inconsistent definitions, missing lineage, and poor handoff between business and technical teams.
+Most analytics projects underperform not because the model is weak, but because the surrounding system is not repeatable. The questions I answer first are:
 
-My consulting work is designed to solve that system-level problem first: reliable data foundations, reusable feature pipelines, clear model assumptions, and durable analytical documentation. Tooling such as KMDS supports this method. See the [KMDS repository](https://github.com/rajivsam/KMDS) for implementation details.
+- What is the unit of analysis?
+- What entities and temporal structure exist?
+- What decision does this dataset support?
+- How will the solution be maintained over time?
+
+A durable methodology matters before tooling. Platforms such as KMDS support this work, but clients buy repeatable outcomes, not software.
 
 ---
 
@@ -121,4 +131,4 @@ Available for contract and advisory engagements with U.S. organizations
 
 [LinkedIn](https://www.linkedin.com/in/rajiv-sambasivan/) · [GitHub](https://github.com/rajivsam/) 
 
-[Explore Consulting Services](/services/) | [View Technical Research on Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
+[Explore Methodology](/methodology/) | [View Technical Research on Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
