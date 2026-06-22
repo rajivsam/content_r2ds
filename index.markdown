@@ -9,6 +9,8 @@ keywords: "operational analytics consulting, repeatable analytical systems, oper
 permalink: "/"
 og_type: website
 ---
+Most machine learning consulting leaves organizations with a common problem: models that perform well in a sandbox but break when exposed to real-world operational data, leaving internal teams with a system they cannot easily audit or maintain. I take a different approach. With a PhD in machine learning and a background in enterprise engineering, I build Knowledge-Centric Machine Learning Systems (KMDS) that integrate directly with your actual business workflows. Because operational data is rarely clean or static, the real value comes from capturing and structuring the analytical knowledge, feature definitions, and data dependencies that make a solution sustainable. That keeps ML aligned with how your business operates and turns operational data into a reliable asset your team can confidently manage over the long term.
+
 {:refdef: style="text-align: center;"}
 ![rinse and repeat logo](assets/images/logonav_resized.png)
 {: refdef}
@@ -20,8 +22,6 @@ I help organizations transform operational data into repeatable analytical syste
 What I do: Turn complex operational datasets into usable decision workflows for recurring reporting and planning.
 
 Who it is for: Organizations that collect operational data frequently and need dependable monthly or quarterly decisions.
-
-What makes this different is an opinionated methodology for operational analytics: not just a model, but a repeatable workflow for periodic business decisions.
 
 ---
 
@@ -71,17 +71,6 @@ This is the same approach used for lending, customer analytics, operations, dema
 - Teams that review decisions on a monthly or quarterly cadence
 - Leaders who need consistent definitions, lineage, and explainable decisions
 - Groups focused on lending, customer analytics, operations, forecasting, service delivery, or asset management
-
----
-
-## How I Work
-
-1. Understand the operational process and decision cycle.
-2. Audit and profile available data.
-3. Modernize and document datasets.
-4. Create reusable features and analytical assets.
-5. Build and validate analytical models.
-6. Preserve analytical knowledge for repeatability.
 
 ---
 
@@ -142,9 +131,9 @@ This intersection between statistical learning, systems architecture, and knowle
 
 ## Contact
 
-For discussions related to analytical systems architecture, graph machine learning, optimization systems, interpretable ML infrastructure, and research collaborations.
-Available for contract and advisory engagements with U.S. organizations
+For analytical systems architecture, graph machine learning, optimization systems, interpretable ML infrastructure, and research collaborations.
+Available for contract and advisory engagements with U.S.-based organizations.
 
-[LinkedIn](https://www.linkedin.com/in/rajiv-sambasivan/) · [GitHub](https://github.com/rajivsam/) 
+[LinkedIn](https://www.linkedin.com/in/rajiv-sambasivan/) · [GitHub](https://github.com/rajivsam/)
 
 [Explore Methodology](/methodology/) | [View Technical Research on Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
