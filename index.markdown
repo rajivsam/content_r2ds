@@ -11,6 +11,13 @@ og_type: website
 ---
 Most machine learning consulting leaves organizations with a common problem: models that perform well in a sandbox but break when exposed to real-world operational data, leaving internal teams with a system they cannot easily audit or maintain. I bring 25+ years of engineering experience developing analytical solutions across multiple industries, together with formal training in machine learning at the PhD level. I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework for delivering ML products with auditability, transparency, and reproducibility built in. Because operational data is rarely clean or static, the real value comes from capturing and structuring the analytical knowledge, feature definitions, and data dependencies that make a solution sustainable. That keeps ML aligned with how your business operates and turns operational data into a reliable asset your team can confidently manage over the long term.
 
+<div style="max-width: 900px; margin: 2rem auto;">
+  <p style="text-align: center; font-weight: 600; margin-bottom: 1rem;">Watch a short video describing my background and the KMDS approach to operational model development.</p>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://www.youtube.com/embed/cporvnttK1U" title="Overview of KMDS approach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  </div>
+</div>
+
 {:refdef: style="text-align: center;"}
 ![rinse and repeat logo](assets/images/logonav_resized.png)
 {: refdef}
