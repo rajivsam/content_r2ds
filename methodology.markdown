@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Repeatable Analytics Methodology
-description: "A repeatable methodology for turning operational data into analytical assets and dependable monthly or quarterly decisions."
-keywords: "operational analytics methodology, data understanding, feature engineering, knowledge preservation, repeatable analytical systems"
+title: Methodology for Consulting
+description: "A repeatable consulting methodology for turning operational data into dependable monthly and quarterly analytical decision systems."
+keywords: "consulting methodology, operational analytics, repeatable analytical systems, process design, knowledge preservation"
 permalink: /methodology/
 nav_order: 2
 image: /assets/images/workflow.png
@@ -11,6 +11,25 @@ og_type: article
 ---
 {: style="text-align: justify"}
 I help organizations build repeatable analytical systems around operational business data. The focus is on methodology first: understand the data, understand the decisions, create analytical assets, and preserve the knowledge that makes the solution durable.
+
+{: style="text-align: justify"}
+### Consulting Methodology
+
+1. Understand the operational process and decision cadence.
+2. Analyze the current datasets, quality issues, and constraints.
+3. Modernize and document data structures and definitions.
+4. Build reusable feature engineering components.
+5. Develop and validate analytical or machine learning models.
+6. Preserve analytical knowledge for repeatable execution.
+
+{: style="text-align: justify"}
+### Delivery Rhythm
+
+* Define one high-value decision workflow first.
+* Build an initial version that is usable by stakeholders.
+* Review results and operational fit with domain teams.
+* Iterate toward a stable monthly or quarterly cycle.
+* Capture assumptions, metadata, and handoff documentation.
 
 {: style="text-align: justify"}
 ### Step 1: Understand the Data
