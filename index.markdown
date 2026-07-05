@@ -48,7 +48,11 @@ Who it is for: Organizations that collect operational data frequently and need d
 
 ## Featured SBA Example
 
-Raw SBA loan data becomes the hero story for a repeatable operational analytics workflow. This example shows how raw operational data is turned into a stable, repeatable decision process.
+Raw SBA loan data becomes the example for a repeatable operational analytics workflow. This example shows how raw operational data is turned into a stable, repeatable decision process using a KMDS component view.
+
+The KMDS migration repository documents the component-based approach for operational analytics: https://github.com/rajivsam/kmds_migration
+
+![KMDS component view](assets/images/kmds_component_view.png)
 
 ```text
 Raw SBA Loan Dataset
