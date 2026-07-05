@@ -99,7 +99,7 @@ Tools:
 My consulting and methodological design experience spans the US, India, and Europe.
 
 {: style="text-align: justify"}
-For practical examples, explore the KMDS migration repository: https://github.com/rajivsam/kmds_migration. If you are evaluating a new initiative, <a href="https://calendly.com/rajiv-sambasivan/30min">book a discovery call</a> to discuss scope, feasibility, and execution.
+For practical examples, explore the [KMDS migration repository](https://github.com/rajivsam/kmds_migration). If you are evaluating a new initiative, <a href="https://calendly.com/rajiv-sambasivan/30min">book a discovery call</a> to discuss scope, feasibility, and execution.
 
 
 
