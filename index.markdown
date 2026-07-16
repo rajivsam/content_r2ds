@@ -108,11 +108,65 @@ A durable methodology matters before tooling. Platforms such as KMDS support thi
 {: .text-justify}
 
 ---
-## Alternatives to Expensive ML Platforms
-Many organizations consider platforms such as Dataiku or DataRobot when modernizing their analytics. These tools are powerful but often come with six‑figure license fees and require specialized teams to operate effectively. For small and mid‑size businesses, that cost and complexity can be prohibitive.
+# Why not just use...
+
+### Documentation
+
+Documentation remains essential, but documents are difficult to maintain, search, and reuse during day-to-day analytical work. As projects evolve, critical decisions become scattered across notebooks, reports, tickets, and emails.
 {: .text-justify}
 
-My consulting-first approach offers a practical alternative: instead of buying software, you invest in repeatable outcomes. Using Knowledge-Centric Machine Learning Systems (KMDS), I deliver operational analytics that are transparent, auditable, and sustainable — without the overhead of platform subscriptions. This makes advanced analytics accessible to organizations that need dependable monthly and quarterly decision workflows but want to avoid the burden of enterprise tooling.
+KMDS treats documentation as raw material rather than the final product. Analytical decisions are captured as structured knowledge that can be queried, traced, and reused by both people and AI agents.
+{: .text-justify}
+
+---
+
+### AI Coding Assistants
+
+Modern AI assistants are excellent at generating code, summarizing information, and automating repetitive tasks. However, they can only reason from the information they are given.
+{: .text-justify}
+
+If the rationale behind feature engineering, modeling choices, or business assumptions was never captured, an AI assistant cannot recover it.
+{: .text-justify}
+
+KMDS focuses on preserving that analytical reasoning so future assistants can build upon institutional knowledge instead of starting from scratch.
+{: .text-justify}
+
+---
+
+### MLOps and Operational AI Platforms
+
+Operational AI platforms excel at deploying, monitoring, and scaling machine learning systems in production. They answer questions such as:
+{: .text-justify}
+
+* How is the model deployed?
+* Is the service healthy?
+* Has model performance degraded?
+
+KMDS addresses a different stage of the lifecycle. It focuses on understanding the data, documenting analytical decisions, preserving modeling rationale, and maintaining organizational knowledge before and during model development.
+{: .text-justify}
+
+The two approaches are complementary rather than competing.
+{: .text-justify}
+
+---
+
+### Knowledge Management for Data Science
+
+Most organizations already possess valuable analytical knowledge.
+{: .text-justify}
+
+The challenge is that it is often distributed across repositories, notebooks, documents, and individual experience.
+{: .text-justify}
+
+KMDS transforms that fragmented knowledge into a structured organizational asset that can be searched, audited, and reused over time.
+{: .text-justify}
+
+The objective is not simply to build better models.
+{: .text-justify}
+
+It is to preserve the reasoning behind those models so that future teams—and future AI systems—can understand, extend, and trust the analytical decisions that were made.
+{: .text-justify}
+
 {: .text-justify}
 
 ---
