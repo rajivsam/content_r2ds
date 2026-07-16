@@ -10,6 +10,10 @@ permalink: "/"
 og_type: website
 ---
 Most machine learning consulting leaves organizations with a common problem: models that perform well in a sandbox but break when exposed to real-world operational data, leaving internal teams with a system they cannot easily audit or maintain. I bring 25+ years of engineering experience developing analytical solutions across multiple industries, together with formal training in machine learning at the PhD level. I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework for delivering ML products with auditability, transparency, and reproducibility built in. Because operational data is rarely clean or static, the real value comes from capturing and structuring the analytical knowledge, feature definitions, and data dependencies that make a solution sustainable. That keeps ML aligned with how your business operates and turns operational data into a reliable asset your team can confidently manage over the long term.
+{: .text-justify}
+
+This page implements justified text using the just-the-docs `text-justify` class.
+{: .text-justify}
 
 <div style="max-width: 900px; margin: 2rem auto;">
   <p style="text-align: center; font-weight: 600; margin-bottom: 1rem;">Watch a short video describing my background and the KMDS approach to operational model development.</p>
@@ -25,10 +29,13 @@ Most machine learning consulting leaves organizations with a common problem: mod
 # Operational Analytics for Monthly and Quarterly Decision Making
 
 I help organizations transform operational data into repeatable analytical systems that are transparent, auditable, and maintainable.
+{: .text-justify}
 
 What I do: Turn complex operational datasets into usable decision workflows for recurring reporting and planning.
+{: .text-justify}
 
 Who it is for: Organizations that collect operational data frequently and need dependable monthly or quarterly decisions.
+{: .text-justify}
 
 ---
 
@@ -49,8 +56,10 @@ Who it is for: Organizations that collect operational data frequently and need d
 ## Featured SBA Example
 
 Raw SBA loan data becomes the example for a repeatable operational analytics workflow. This example shows how raw operational data is turned into a stable, repeatable decision process using a KMDS component view.
+{: .text-justify}
 
 The [KMDS migration repository](https://github.com/rajivsam/kmds_migration) documents the component-based approach for operational analytics. Please see [this article](https://rajivsam.github.io/kmds_migration/kmds_insights_article.html) for a technical overview of the KMDS approach.
+{: .text-justify}
 
 ![KMDS component view](assets/images/kmds_component_view.png)
 
@@ -73,6 +82,7 @@ Repeatable Business Decisions
 ```
 
 This is the same approach used for lending, customer analytics, operations, demand forecasting, service delivery, and asset management.
+{: .text-justify}
 
 ---
 
@@ -95,6 +105,15 @@ Most analytics projects underperform not because the model is weak, but because 
 - How will the solution be maintained over time?
 
 A durable methodology matters before tooling. Platforms such as KMDS support this work, but clients buy repeatable outcomes, not software.
+{: .text-justify}
+
+---
+## Alternatives to Expensive ML Platforms
+Many organizations consider platforms such as Dataiku or DataRobot when modernizing their analytics. These tools are powerful but often come with six‑figure license fees and require specialized teams to operate effectively. For small and mid‑size businesses, that cost and complexity can be prohibitive.
+{: .text-justify}
+
+My consulting-first approach offers a practical alternative: instead of buying software, you invest in repeatable outcomes. Using Knowledge-Centric Machine Learning Systems (KMDS), I deliver operational analytics that are transparent, auditable, and sustainable — without the overhead of platform subscriptions. This makes advanced analytics accessible to organizations that need dependable monthly and quarterly decision workflows but want to avoid the burden of enterprise tooling.
+{: .text-justify}
 
 ---
 
@@ -115,6 +134,7 @@ A durable methodology matters before tooling. Platforms such as KMDS support thi
 ## Selected Publications
 
 Selected publications and research contributions spanning scalable statistical learning, graph-oriented analytical systems, optimization, and enterprise-scale machine learning infrastructure are available on my Google Scholar profile.
+{: .text-justify}
 
 [View Google Scholar Profile](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
 
@@ -123,8 +143,10 @@ Selected publications and research contributions spanning scalable statistical l
 ## Research Philosophy
 
 I am interested in analytical systems that combine mathematical rigor, interpretability, graph-based representations, scalable systems engineering, and operational reproducibility within enterprise environments.
+{: .text-justify}
 
 This intersection between statistical learning, systems architecture, and knowledge representation forms the foundation of my current work.
+{: .text-justify}
 
 ---
 
@@ -144,6 +166,7 @@ This intersection between statistical learning, systems architecture, and knowle
 
 For analytical systems architecture, graph machine learning, optimization systems, interpretable ML infrastructure, and research collaborations.
 Available for contract and advisory engagements with U.S.-based organizations.
+{: .text-justify}
 
 [LinkedIn](https://www.linkedin.com/in/rajiv-sambasivan/) · [GitHub](https://github.com/rajivsam/)
 
