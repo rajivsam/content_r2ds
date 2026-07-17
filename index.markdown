@@ -9,13 +9,19 @@ keywords: "operational analytics consulting, repeatable analytical systems, oper
 permalink: "/"
 og_type: website
 ---
-Most machine learning consulting leaves organizations with a common problem: models that perform well in a sandbox but break when exposed to real-world operational data, leaving internal teams with a system they cannot easily audit or maintain. I bring 25+ years of engineering experience developing analytical solutions across multiple industries, together with formal training in machine learning at the PhD level. I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework for delivering ML products with auditability, transparency, and reproducibility built in. Because operational data is rarely clean or static, the real value comes from capturing and structuring the analytical knowledge, feature definitions, and data dependencies that make a solution sustainable. That keeps ML aligned with how your business operates and turns operational data into a reliable asset your team can confidently manage over the long term.
+# Enterprise-Grade ML, Without the Enterprise Platform Bill
+
+Dataiku and DataRobot cost real money — licensing, seats, implementation, often $100K+ a year before you've shipped a single model. Most companies don't need the platform. They need the outcome: reliable models in production, decisions that hold up to scrutiny, and a system your team can actually run without a vendor on retainer.
 {: .text-justify}
 
+I deliver that directly, at a fraction of the cost — as an independent data scientist with 25+ years of engineering experience and a PhD in machine learning. If you've already invested in a platform, I complement it: implementation support, model development, and the analytical judgment platforms don't provide out of the box.
+{: .text-justify}
 
+I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underneath the work — a methodology for delivering ML products with auditability, transparency, and reproducibility built in from day one. Because operational data is rarely clean or static, the real value comes from capturing and structuring the analytical knowledge, feature definitions, and data dependencies that make a solution sustainable long after the engagement ends.
+{: .text-justify}
 
 <div style="max-width: 900px; margin: 2rem auto;">
-  <p style="text-align: center; font-weight: 600; margin-bottom: 1rem;">Watch a short video describing my background and the KMDS approach to operational model development.</p>
+  <p style="text-align: center; font-weight: 600; margin-bottom: 1rem;">Watch a short video describing my background and approach.</p>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe src="https://www.youtube.com/embed/cporvnttK1U" title="Overview of KMDS approach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
   </div>
@@ -25,42 +31,34 @@ Most machine learning consulting leaves organizations with a common problem: mod
 ![rinse and repeat logo](assets/images/logonav_resized.png)
 {: refdef}
 
-# Operational Analytics for Monthly and Quarterly Decision Making
+---
 
-I help organizations transform operational data into repeatable analytical systems that are transparent, auditable, and maintainable.
-{: .text-justify}
+## Who I Help
 
-What I do: Turn complex operational datasets into usable decision workflows for recurring reporting and planning.
-{: .text-justify}
-
-Who it is for: Organizations that collect operational data frequently and need dependable monthly or quarterly decisions.
-{: .text-justify}
+- Teams evaluating Dataiku, DataRobot, or similar platforms who are hesitant on cost or implementation time
+- Organizations that already own a platform license but need hands-on help getting value from it
+- Organizations with operational data collected daily, weekly, or monthly
+- Leaders who need consistent definitions, lineage, and explainable decisions — without the platform overhead
+- Groups focused on lending, customer analytics, operations, forecasting, service delivery, or asset management
 
 ---
 
-## Methodology
+## How I'm Different From a Platform
 
-1. Identify the business decision.
-2. Identify the unit of analysis.
-3. Understand temporal structure.
-4. Identify entities and relationships.
-5. Assess data quality.
-6. Design features.
-7. Select modeling strategy.
-8. Capture assumptions and operational risks.
-9. Preserve analytical knowledge.
+A platform sells you software and leaves the thinking to your team. I do the thinking *and* build the system — direct engagement, no seat licenses, no minimum contract tiers.
+{: .text-justify}
+
+I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underneath the work — a methodology for delivering ML products with auditability, transparency, and reproducibility built in from day one. Because operational data is rarely clean or static, the real value comes from capturing and structuring the analytical knowledge, feature definitions, and data dependencies that make a solution sustainable long after the engagement ends.
+{: .text-justify}
+
+[Explore the full KMDS methodology →](https://www.r2-ds.com/methodology/)
 
 ---
 
-## Featured SBA Example
+## Featured Example: SBA Loan Analytics
 
-Raw SBA loan data becomes the example for a repeatable operational analytics workflow. This example shows how raw operational data is turned into a stable, repeatable decision process using a KMDS component view.
+Raw SBA loan data becomes the example for a repeatable operational analytics workflow — the same kind of system a platform would charge enterprise rates to build.
 {: .text-justify}
-
-The [KMDS migration repository](https://github.com/rajivsam/kmds_migration) documents the component-based approach for operational analytics. Please see [this article](https://rajivsam.github.io/kmds_migration/kmds_insights_article.html) for a technical overview of the KMDS approach.
-{: .text-justify}
-
-![KMDS component view](assets/images/kmds_component_view.png)
 
 ```text
 Raw SBA Loan Dataset
@@ -80,98 +78,11 @@ Knowledge Preservation
 Repeatable Business Decisions
 ```
 
-This is the same approach used for lending, customer analytics, operations, demand forecasting, service delivery, and asset management.
-{: .text-justify}
-
----
-
-## Who I Help
-
-- Organizations with operational data collected daily, weekly, or monthly
-- Teams that review decisions on a monthly or quarterly cadence
-- Leaders who need consistent definitions, lineage, and explainable decisions
-- Groups focused on lending, customer analytics, operations, forecasting, service delivery, or asset management
-
----
-
-## Methodology Before Tooling
-
-Most analytics projects underperform not because the model is weak, but because the surrounding system is not repeatable. The questions I answer first are:
-
-- What is the unit of analysis?
-- What entities and temporal structure exist?
-- What decision does this dataset support?
-- How will the solution be maintained over time?
-
-A durable methodology matters before tooling. Platforms such as KMDS support this work, but clients buy repeatable outcomes, not software.
-{: .text-justify}
-
----
-# Why not just use...
-
-### Documentation
-
-Documentation remains essential, but documents are difficult to maintain, search, and reuse during day-to-day analytical work. As projects evolve, critical decisions become scattered across notebooks, reports, tickets, and emails.
-{: .text-justify}
-
-KMDS treats documentation as raw material rather than the final product. Analytical decisions are captured as structured knowledge that can be queried, traced, and reused by both people and AI agents.
-{: .text-justify}
-
----
-
-### AI Coding Assistants
-
-Modern AI assistants are excellent at generating code, summarizing information, and automating repetitive tasks. However, they can only reason from the information they are given.
-{: .text-justify}
-
-If the rationale behind feature engineering, modeling choices, or business assumptions was never captured, an AI assistant cannot recover it.
-{: .text-justify}
-
-KMDS focuses on preserving that analytical reasoning so future assistants can build upon institutional knowledge instead of starting from scratch.
-{: .text-justify}
-
----
-
-### MLOps and Operational AI Platforms
-
-Operational AI platforms excel at deploying, monitoring, and scaling machine learning systems in production. They answer questions such as:
-{: .text-justify}
-
-* How is the model deployed?
-* Is the service healthy?
-* Has model performance degraded?
-
-KMDS addresses a different stage of the lifecycle. It focuses on understanding the data, documenting analytical decisions, preserving modeling rationale, and maintaining organizational knowledge before and during model development.
-{: .text-justify}
-
-The two approaches are complementary rather than competing.
-{: .text-justify}
-
----
-
-### Knowledge Management for Data Science
-
-Most organizations already possess valuable analytical knowledge.
-{: .text-justify}
-
-The challenge is that it is often distributed across repositories, notebooks, documents, and individual experience.
-{: .text-justify}
-
-KMDS transforms that fragmented knowledge into a structured organizational asset that can be searched, audited, and reused over time.
-{: .text-justify}
-
-The objective is not simply to build better models.
-{: .text-justify}
-
-It is to preserve the reasoning behind those models so that future teams—and future AI systems—can understand, extend, and trust the analytical decisions that were made.
-{: .text-justify}
-
-{: .text-justify}
+See the [KMDS migration repository](https://github.com/rajivsam/kmds_migration) and [technical overview article](https://rajivsam.github.io/kmds_migration/kmds_insights_article.html) for details.
 
 ---
 
 ## Technical Focus Areas
-
 
 - Statistical Learning Systems
 - Graph Machine Learning
@@ -182,45 +93,16 @@ It is to preserve the reasoning behind those models so that future teams—and f
 
 ---
 
+## Background
 
-
-## Selected Publications
-
-Selected publications and research contributions spanning scalable statistical learning, graph-oriented analytical systems, optimization, and enterprise-scale machine learning infrastructure are available on my Google Scholar profile.
-{: .text-justify}
-
-[View Google Scholar Profile](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
+25+ years of engineering experience developing analytical solutions across retail, telecom, transport, finance, government, and software tools, plus formal PhD-level training in machine learning. Selected publications spanning scalable statistical learning, graph-oriented analytical systems, optimization, and enterprise-scale ML infrastructure are available on [Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en).
 
 ---
 
-## Research Philosophy
+## Let's Talk
 
-I am interested in analytical systems that combine mathematical rigor, interpretability, graph-based representations, scalable systems engineering, and operational reproducibility within enterprise environments.
-{: .text-justify}
+If you're weighing the cost of a Dataiku or DataRobot license — or already have one and need someone to make it work — let's talk about a direct engagement.
 
-This intersection between statistical learning, systems architecture, and knowledge representation forms the foundation of my current work.
-{: .text-justify}
+Available for contract and advisory engagements.
 
----
-
-
-## Current Areas of Interest
-
-- Graph-centric machine learning systems
-- Knowledge-oriented analytical infrastructure
-- Interpretable statistical learning
-- Analytical lineage and reproducibility
-- Enterprise-scale ML systems architecture
-- Semantic systems for applied AI
-
----
-
-## Contact
-
-For analytical systems architecture, graph machine learning, optimization systems, interpretable ML infrastructure, and research collaborations.
-Available for contract and advisory engagements with U.S.-based organizations.
-{: .text-justify}
-
-[LinkedIn](https://www.linkedin.com/in/rajiv-sambasivan/) · [GitHub](https://github.com/rajivsam/)
-
-[Explore Methodology](/methodology/) | [View Technical Research on Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/rajiv-sambasivan/) · [GitHub](https://github.com/rajivsam/) · [Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
