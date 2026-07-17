@@ -11,7 +11,7 @@ og_type: website
 ---
 # Enterprise-Grade ML, Without the Enterprise Platform Bill
 
-Dataiku and DataRobot cost real money — licensing, seats, implementation, often $100K+ a year before you've shipped a single model. Most companies don't need the platform. They need the outcome: reliable models in production, decisions that hold up to scrutiny, and a system your team can actually run without a vendor on retainer.
+ML Platforms cost real money — licensing, seats, implementation, often $100K+ a year before you've shipped a single model. Most companies don't need the platform. They need the outcome: reliable models in production, decisions that hold up to scrutiny, and a system your team can actually run without a vendor on retainer.
 {: .text-justify}
 
 I deliver that directly, at a fraction of the cost — as an independent data scientist with 25+ years of engineering experience and a PhD in machine learning. If you've already invested in a platform, I complement it: implementation support, model development, and the analytical judgment platforms don't provide out of the box.
