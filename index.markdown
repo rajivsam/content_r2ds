@@ -20,6 +20,14 @@ I deliver that directly, at a fraction of the cost — as an independent data sc
 I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underneath the work — a methodology for delivering ML products with auditability, transparency, and reproducibility built in from day one. Because operational data is rarely clean or static, the real value comes from capturing and structuring the analytical knowledge, feature definitions, and data dependencies that make a solution sustainable long after the engagement ends.
 {: .text-justify}
 
+### Consulting Offering
+
+KMDS is free to use, giving teams a powerful baseline for feature engineering and modeling workflows without upfront licensing costs. It’s designed to accelerate exploration and make data preparation more accessible.
+
+Our consulting practice builds on this foundation with a focus on **featurization** — the critical step that drives model performance. We deliver curated feature sets, interaction terms, correlation-adjusted features, and vectorized datasets ready for downstream modeling. This ensures your models start with the strongest possible inputs.
+
+For clients seeking end-to-end solutions, we also provide **modeling support** as an add-on. From classification and regression to survival analysis and panel data modeling, we help teams move seamlessly from feature engineering to production-ready models.
+
 <div style="max-width: 900px; margin: 2rem auto;">
   <p style="text-align: center; font-weight: 600; margin-bottom: 1rem;">Watch a short video describing my background and approach.</p>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
