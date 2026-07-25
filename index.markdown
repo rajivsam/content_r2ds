@@ -22,11 +22,13 @@ I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underne
 
 ### Consulting Offering
 
-KMDS is free to use, giving teams a powerful baseline for feature engineering and modeling workflows without upfront licensing costs. It’s designed to accelerate exploration and make data preparation more accessible.
+KMDS is free to use and gives teams a strong baseline for feature engineering and modeling workflows without upfront licensing costs. It accelerates exploration and makes data preparation more accessible.
 
-Our consulting practice builds on this foundation with a focus on **featurization** — the critical step that drives model performance. We deliver curated feature sets, interaction terms, correlation-adjusted features, and vectorized datasets ready for downstream modeling. This ensures your models start with the strongest possible inputs.
+With an ML expert, the value is in choosing the right inputs and shaping the model for your business use case in a way that is interpretable, maintainable, and auditable.
 
-For clients seeking end-to-end solutions, we also provide **modeling support** as an add-on. From classification and regression to survival analysis and panel data modeling, we help teams move seamlessly from feature engineering to production-ready models.
+Our consulting practice builds on that foundation with a focus on **featurization** — the critical step that drives model performance. We deliver curated feature sets, interaction terms, correlation-adjusted features, and vectorized datasets ready for downstream modeling, so your models start with the strongest possible inputs.
+
+For clients seeking end-to-end solutions, we also provide **modeling support**. From classification and regression to survival analysis and panel data models, we help teams move seamlessly from feature engineering to production-ready systems.
 
 <div style="max-width: 900px; margin: 2rem auto;">
   <p style="text-align: center; font-weight: 600; margin-bottom: 1rem;">Watch a short video describing my background and approach.</p>
