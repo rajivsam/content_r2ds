@@ -111,7 +111,7 @@ See the [KMDS migration repository](https://github.com/rajivsam/kmds_migration) 
 
 ## Let's Talk
 
-If you're weighing the cost of a Dataiku or DataRobot license — or already have one and need someone to make it work — let's talk about a direct engagement.
+If you're weighing the cost of a Dataiku or DataRobot license — or already have one and need someone to make it work — [let's talk](https://calendly.com/rajiv-sambasivan) about a direct engagement. I am available on both 1099 and C2C basis.
 
 Available for contract and advisory engagements.
 
