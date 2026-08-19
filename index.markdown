@@ -22,7 +22,7 @@ I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underne
 
 ### Consulting Offering
 
-KMDS is free to use and gives teams a strong baseline for feature engineering and modeling workflows without upfront licensing costs. It accelerates exploration and makes data preparation more accessible.
+KMDS is free to use and gives teams a strong baseline for feature engineering and modeling workflows without upfront licensing costs. It accelerates exploration and makes data preparation more accessible. Please see the following [post](https://rajivsam.github.io/r2ds-blog/posts/kmds_update_1/) for a description of how KMDS fits into implementing a machine learning use case.
 
 With an ML expert, the value is in choosing the right inputs and shaping the model for your business use case in a way that is interpretable, maintainable, and auditable.
 
