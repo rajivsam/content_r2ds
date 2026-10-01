@@ -24,11 +24,13 @@ I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underne
 
 KMDS is free to use and gives teams a strong baseline for feature engineering and modeling workflows without upfront licensing costs. It accelerates exploration and makes data preparation more accessible. Please see the following [post](https://rajivsam.github.io/r2ds-blog/posts/kmds_update_1/) for a description of how KMDS fits into implementing a machine learning use case.
 
+You bring the operational problem and the data history. I translate that business problem into the precise feature engineering, statistical models, or graph structures required to solve it. Because I use the open KMDS framework, the resulting analytical definitions and system logic stay inside your company—giving you enterprise-grade decisions without the permanent software platform bill.
+
 With an ML expert, the value is in choosing the right inputs and shaping the model for your business use case in a way that is interpretable, maintainable, and auditable.
 
-Our consulting practice builds on that foundation with a focus on **featurization** — the critical step that drives model performance. We deliver curated feature sets, interaction terms, correlation-adjusted features, and vectorized datasets ready for downstream modeling, so your models start with the strongest possible inputs.
+My consulting practice builds on that foundation with a focus on **featurization** — the critical step that drives model performance. I deliver curated feature sets, interaction terms, correlation-adjusted features, and vectorized datasets ready for downstream modeling, so your models start with the strongest possible inputs.
 
-For clients seeking end-to-end solutions, we also provide **modeling support**. From classification and regression to survival analysis and panel data models, we help teams move seamlessly from feature engineering to production-ready systems.
+For clients seeking end-to-end solutions, I also provide **modeling support**. From classification and regression to survival analysis and panel data models, I help teams move seamlessly from feature engineering to production-ready systems.
 
 <div style="max-width: 900px; margin: 2rem auto;">
   <p style="text-align: center; font-weight: 600; margin-bottom: 1rem;">Watch a short video describing my background and approach.</p>
