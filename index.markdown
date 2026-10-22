@@ -28,13 +28,7 @@ I write practical, grounded commentary on the real work of building useful AI an
 If you want a more candid view of how AI and analytics actually get built in practice — beyond product marketing, vendor hype, and generic productivity talk — see the [Perspectives on AI and Analytics page](/essays/) for the full set of essays and discussion.
 {: .text-justify}
 
-- [Beyond the Agent Illusion: Leveraging AI Systems for Real Operational Value](https://r2dssanity.substack.com/p/beyond-the-agent-illusion-leveraging?r=3ncgel) — A comparison of two ways to build intelligent systems: the AI-first, agentic view and the data-science view. There are niches such as self-driving cars and robotics where the agentic approach is essential, but in most enterprise operations — especially where decisions must be explained to business users and operators — the data-science view is the more practical and defensible path.
-- [From Business Use Case to Technical Implementation](https://r2dssanity.substack.com/p/from-business-use-case-to-technical?r=3ncgel) — Turning business problems into tractable analytical systems, with attention to constraints, data realities, and measurable outcomes.
-- [From Task-Specific Data to Modeling](https://r2dssanity.substack.com/p/from-task-specific-data-to-modeling?r=3ncgel) — How raw operational data becomes the modeling substrate, and why task framing matters as much as the algorithm.
-- [Modeling and Featurization](https://r2dssanity.substack.com/p/modeling-and-featurization?r=3ncgel) — The design choices that shape model quality, especially where feature engineering is the difference between signal and noise.
 
-The longer-form version of this thinking lives on the [Perspectives on AI and Analytics page](/essays/), where each piece sits within a broader set of practical views on operational analytics and AI systems.
-{: .text-justify}
 
 ### Consulting Offering
 
