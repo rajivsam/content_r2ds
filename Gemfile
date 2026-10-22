@@ -18,6 +18,7 @@ gem 'just-the-docs', '~> 0.6.1'
 group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jekyll-feed'
+    gem 'racc'
 
 end
 

@@ -9,15 +9,31 @@ keywords: "operational analytics consulting, repeatable analytical systems, oper
 permalink: "/"
 og_type: website
 ---
-# Enterprise-Grade ML, Without the Enterprise Platform Bill
+# Practical AI and Operational Analytics for Real Decisions
 
-ML Platforms cost real money — licensing, seats, implementation, often $100K+ a year before you've shipped a single model. Most companies don't need the platform. They need the outcome: reliable models in production, decisions that hold up to scrutiny, and a system your team can actually run without a vendor on retainer.
+Most AI programs do not fail because the models are weak. They fail because the use case is poorly framed, the data is not operationally understood, and the system is built without the knowledge needed to maintain it. I help organizations turn operational data into repeatable analytical systems that support real business decisions — not just technical demos.
 {: .text-justify}
 
-I deliver that directly, at a fraction of the cost — as an independent data scientist with 25+ years of engineering experience and a PhD in machine learning. If you've already invested in a platform, I complement it: implementation support, model development, and the analytical judgment platforms don't provide out of the box.
+I work directly with teams that need clarity on where to start, what to model, and how to structure the underlying data and feature definitions so the solution is explainable, auditable, and sustainable. My work combines machine learning, decision systems design, and operational analytics, with a strong emphasis on featurization, model quality, and practical implementation.
 {: .text-justify}
 
-I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underneath the work — a methodology for delivering ML products with auditability, transparency, and reproducibility built in from day one. Because operational data is rarely clean or static, the real value comes from capturing and structuring the analytical knowledge, feature definitions, and data dependencies that make a solution sustainable long after the engagement ends.
+I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underneath the work — a methodology for building ML products with transparency, reproducibility, and operational discipline from day one. The goal is not to chase AI hype; it is to build the analytical system your team can actually run, defend, and improve over time.
+{: .text-justify}
+
+### Perspectives on AI and Analytics
+
+I write practical, grounded commentary on the real work of building useful AI and analytics systems: where the business problem starts, how the data becomes a model, and what it takes to turn a promising idea into something reliable enough to operate.
+{: .text-justify}
+
+If you want a more candid view of how AI and analytics actually get built in practice — beyond product marketing, vendor hype, and generic productivity talk — see the [Perspectives on AI and Analytics page](/essays/) for the full set of essays and discussion.
+{: .text-justify}
+
+- [Beyond the Agent Illusion: Leveraging AI Systems for Real Operational Value](https://r2dssanity.substack.com/p/beyond-the-agent-illusion-leveraging?r=3ncgel) — A comparison of two ways to build intelligent systems: the AI-first, agentic view and the data-science view. There are niches such as self-driving cars and robotics where the agentic approach is essential, but in most enterprise operations — especially where decisions must be explained to business users and operators — the data-science view is the more practical and defensible path.
+- [From Business Use Case to Technical Implementation](https://r2dssanity.substack.com/p/from-business-use-case-to-technical?r=3ncgel) — Turning business problems into tractable analytical systems, with attention to constraints, data realities, and measurable outcomes.
+- [From Task-Specific Data to Modeling](https://r2dssanity.substack.com/p/from-task-specific-data-to-modeling?r=3ncgel) — How raw operational data becomes the modeling substrate, and why task framing matters as much as the algorithm.
+- [Modeling and Featurization](https://r2dssanity.substack.com/p/modeling-and-featurization?r=3ncgel) — The design choices that shape model quality, especially where feature engineering is the difference between signal and noise.
+
+The longer-form version of this thinking lives on the [Perspectives on AI and Analytics page](/essays/), where each piece sits within a broader set of practical views on operational analytics and AI systems.
 {: .text-justify}
 
 ### Consulting Offering
