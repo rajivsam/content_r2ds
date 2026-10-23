@@ -127,4 +127,6 @@ If you're weighing the cost of a Dataiku or DataRobot license — or already hav
 
 Available for contract and advisory engagements.
 
+> Note: I provide strategic, specialized ML advisory and high-value decision architecture directly to enterprise clients. I do not take on general implementation-tier projects, staff augmentation roles, or W2 agency placements. Third-party brokers and staffing firms seeking to place resources or support general delivery work will not be considered.
+
 [LinkedIn](https://www.linkedin.com/in/rajiv-sambasivan/) · [GitHub](https://github.com/rajivsam/) · [Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
