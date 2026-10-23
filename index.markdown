@@ -25,7 +25,7 @@ I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underne
 I write practical, grounded commentary on the real work of building useful AI and analytics systems: where the business problem starts, how the data becomes a model, and what it takes to turn a promising idea into something reliable enough to operate.
 {: .text-justify}
 
-If you want a more candid view of how AI and analytics actually get built in practice — beyond product marketing, vendor hype, and generic productivity talk — see the [Perspectives on AI and Analytics page](/essays/) for the full set of essays and discussion.
+If you are interested in my perspectives on AI — especially how generative AI and LLM tools can work alongside a data scientist to support real analytical work — see the [Perspectives on AI and Analytics page](/essays/).
 {: .text-justify}
 
 
