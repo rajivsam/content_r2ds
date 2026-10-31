@@ -20,6 +20,9 @@ I work directly with teams that need clarity on where to start, what to model, a
 I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underneath the work — a methodology for building ML products with transparency, reproducibility, and operational discipline from day one. The goal is not to chase AI hype; it is to build the analytical system your team can actually run, defend, and improve over time.
 {: .text-justify}
 
+As an independent offering, I also develop [tseda](https://github.com/rajivsam/tseda), a Python package for analyst-guided time-series decomposition, diagnostics, and signal validation. It helps teams separate trend, seasonality, and noise in operational data while keeping analytical decisions explicit and reviewable.
+{: .text-justify}
+
 ### Perspectives on AI and Analytics
 
 I write practical, grounded commentary on the real work of building useful AI and analytics systems: where the business problem starts, how the data becomes a model, and what it takes to turn a promising idea into something reliable enough to operate.

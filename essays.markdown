@@ -31,5 +31,7 @@ I write about the gap between the polished story of AI and the practical work of
 - [Why using AI to understand technical content needs care and deliberation](https://r2dssanity.substack.com/p/why-ai-summaries-can-flatten-a-paper?r=3ncgel&utm_campaign=post-expanded-share&utm_medium=web)  
   Why generative AI can flatten nuanced technical material if it is treated as a substitute for careful reading and domain judgment.
 
+- [tseda: Analyst-Guided Time-Series Decomposition](https://github.com/rajivsam/tseda) — An open Python package for decomposing operational time series into interpretable components such as trend, seasonality, and noise, with explicit, repeatable, and reviewable diagnostics.
+
 {: style="text-align: justify"}
 These essays are intended to be practical, opinionated, and grounded in applied analytics rather than hype. They sit alongside the consulting and methodology work on this site, and they are meant to help teams think more clearly about where data science adds value and where it does not.
