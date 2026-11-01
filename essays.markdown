@@ -19,6 +19,9 @@ I write about the gap between the polished story of AI and the practical work of
 - [Beyond the Agent Illusion: Leveraging AI Systems for Real Operational Value](https://r2dssanity.substack.com/p/beyond-the-agent-illusion-leveraging?r=3ncgel)  
   A comparison of two ways to build intelligent systems: the AI-first, agentic view and the data-science view. The essay argues that while there are niches such as self-driving cars and robotics where the agentic approach is essential, most enterprise operations are better served by the data-science view when decisions must be explained, trusted, and understood by business operators.
 
+- [Data Scientist vs ML Engineer](https://r2dssanity.substack.com/p/modeler-ml-scientist-data-scientist?r=3ncgel&utm_campaign=post-expanded-share&utm_medium=web)
+  A practical look at the different responsibilities of data scientists and machine learning engineers, where their work overlaps, and how both roles contribute to building reliable systems that create operational value.
+
 - [From Business Use Case to Technical Implementation](https://r2dssanity.substack.com/p/from-business-use-case-to-technical?r=3ncgel)  
   Turning business problems into tractable analytical systems, with attention to constraints, data realities, and measurable outcomes.
 
