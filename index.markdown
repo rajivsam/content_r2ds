@@ -18,13 +18,7 @@ I help CTOs and engineering leaders turn operational data into analytical system
 
 [Book a call](https://calendly.com/rajiv-sambasivan) · [Read the methodology](/methodology/) · [Read the perspectives](/essays/)
 
-I help technical leaders turn operational data into analytical systems that are statistically defensible, auditable, and maintainable. My open-source foundations — [KMDS](https://github.com/rajivsam/kmds_migration) and [tseda](https://github.com/rajivsam/tseda) — give teams an immediately usable analytical engine without a permanent software platform bill. The real value is not software rental. It is the intellectual capital required to map the decision correctly, define the right feature logic, and maintain the model as the operating environment changes.
-{: .text-justify}
-
-This is a direct advisory model for organizations that need analytical rigor, not a vendor lock-in relationship. I provide the initial mathematical architecture, the drift and gap analysis, and the ongoing calibration required to keep the model aligned with reality. See the [methodology](/methodology/) for how the work is structured, and the [Perspectives on AI and Analytics](/essays/) for practical examples of how these systems are thought about in real operational settings.
-{: .text-justify}
-
-I am not selling a subscription. I am selling the judgment that created the architecture in the first place and the expertise required to keep it honest as the data-generating process changes.
+This is a direct advisory model for organizations that need analytical rigor, not a vendor lock-in relationship. I provide the initial mathematical architecture, the drift and gap analysis, and the ongoing calibration required to keep the model aligned with reality. The solution is not obscured; it is built in an open-source framework that the client can inspect, run, and adapt without vendor dependency. See the [methodology](/methodology/) for how the work is structured, and the [Perspectives on AI and Analytics](/essays/) for practical examples of how these systems are thought about in real operational settings.
 {: .text-justify}
 
 ### The Open-Platform Advisory Framework
