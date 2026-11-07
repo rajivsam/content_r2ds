@@ -42,9 +42,10 @@ I help organizations convert operational complexity into rigorous statistical le
 ### Why This Model Is Technically Credible
 
 1. **The solution is transparent** — it is built in an open-source framework that the client can inspect, run, and adapt without vendor dependency.
-2. **Drift is the recurring value source** — the real question is not whether the model works at launch, but whether it remains valid as the operating conditions shift.
-3. **The engagement is about decision quality, not labor arbitrage** — I am not positioned as a generic software vendor or a body-for-hire. I work as a specialist in analytical architecture, modeling rigor, and operational stewardship.
-4. **The value is ongoing stewardship** — the work is framed around mathematical design, calibration, and maintenance so the analytical system remains honest as the operating environment changes.
+2. **Problem framing is the first hard problem** — the work begins by mapping the business question to the right set of statistical tasks, defining the validation methodology that proves the framing is right, and establishing the monitoring approach that keeps the system honest as it operates. Foundation models can give a team a baseline, but building a solution that customers and modelers truly understand and can maintain is a different question.
+3. **Monitoring and maintenance are a core part of the solution** — another critical dimension of a sustainable machine learning or statistical learning system is how we monitor performance, detect when the operating environment has changed, and know when it is time to change the model or the underlying assumptions.
+4. **The engagement is about decision quality, not labor arbitrage** — I am not positioned as a generic software vendor or a body-for-hire. I work as a specialist in analytical architecture, modeling rigor, and operational stewardship.
+5. **The value is ongoing stewardship** — the work is framed around mathematical design, calibration, and maintenance so the analytical system remains honest as the operating environment changes.
 
 ### Perspectives on AI and Analytics
 
