@@ -38,6 +38,7 @@ I help organizations convert operational complexity into rigorous statistical le
 
 - **KMDS**: A knowledge-centric framework for transparent, reproducible machine learning workflows and operationally grounded feature definition.
 - **tseda**: A Python package for analyst-guided time-series decomposition, allowing teams to separate trend, seasonality, and noise while preserving explicit statistical traceability.
+- **structure identification tool**: A tool for finding, explaining, and tracking structure in datasets used for modeling, helping teams diagnose hidden dependencies, segmentations, and drift before they distort decisions. [structure identification tool](https://github.com/rajivsam/structure_identification_for_CS_data)
 
 ### Why This Model Is Technically Credible
 
