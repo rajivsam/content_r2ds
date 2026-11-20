@@ -3,72 +3,106 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 nav_order: 1
-title: "Open-Platform Advisory for Data-Driven Operations"
-description: "Independent advisory for analytical architecture, statistical mapping, and drift remediation using open-source KMDS and tseda frameworks."
-keywords: "open-platform advisory, statistical architecture, drift remediation, KMDS, tseda, operational analytics consulting"
+title: "Open, Client-Owned Analytics for Operational Decisions"
+description: "Independent advisory for diagnosing underperforming analytics, designing statistically defensible solutions, and building maintainable systems that clients own."
+keywords: "operational analytics, statistical learning, analytical architecture, open-source machine learning, KMDS, tseda, drift remediation"
 permalink: "/"
 og_type: website
 ---
-# Open-Platform Advisory for Operational Intelligence
+# Reliable Operational Decisions, Without Platform Lock-In
 
-## Statistical Approaches for Operational Decisions
+## Statistical Learning Built for the Real Decision
 
-I help CTOs and engineering leaders turn operational data into analytical systems that are statistically defensible, auditable, and maintainable. The underlying platform remains open and client-owned through [KMDS](https://github.com/rajivsam/kmds_migration) and [tseda](https://github.com/rajivsam/tseda), so the team keeps the engine without permanent platform lock-in. I am not selling a subscription. I am selling the judgment that created the architecture in the first place and the expertise required to keep it honest as the data-generating process changes.
+I help CTOs, engineering leaders, and operational teams turn organizational data into analytical systems that produce reliable, explainable, and maintainable decisions. R2-DS combines established statistical learning methods—refined by researchers and practitioners over decades—with disciplined software engineering. The result is a reusable, auditable solution that your organization can inspect, operate, extend, and own.
 {: .text-justify}
 
-[Book a call](https://calendly.com/rajiv-sambasivan) · [Read the methodology](/methodology/) · [Read the perspectives](/essays/)
-
-This is a direct advisory model for organizations that need analytical rigor, not vendor dependency. I provide the initial mathematical architecture, the drift and gap analysis, and the ongoing calibration required to keep the model aligned with reality. The solution is transparent: it is built in open-source tooling that the client can inspect, run, and adapt without dependency. See the [methodology](/methodology/) for how the work is structured, and the [Perspectives on AI and Analytics](/essays/) for examples of how these systems are thought about in real operational settings.
+Many analytics initiatives fail not because the team lacks algorithms, but because the solution does not adequately reflect the business process, data structure, validation requirements, or operational consequences. I focus on those gaps: problem framing, feature design, model selection, validation, monitoring, and maintenance. Foundation models and advanced techniques can be useful, but reinventing established methods is unnecessary when the available data and domain knowledge support a simpler, more transparent solution.
 {: .text-justify}
 
-### The Open-Platform Advisory Framework
+[Discuss your problem](https://calendly.com/rajiv-sambasivan) · [Explore the methodology](/methodology/) · [Review case studies](https://github.com/rajivsam/kmds_migration)
 
-**The Core Principle**
+## Where the Approach Creates Value
 
-I help organizations convert operational complexity into rigorous statistical learning problems without proprietary platform lock-in. The framework is built for transparency, auditability, and long-term client ownership.
+Simply passing cleaned data to an algorithm rarely produces a robust operational system. Real data may contain imbalance, hidden subpopulations, correlated features, inconsistent semantics, and changing operating conditions. The useful question is not "Which algorithm should we run?" but:
+
+- What decision must the model support?
+- What structure and limitations exist in the data?
+- Which signals are relevant to the business process?
+- How will success be measured in operation?
+- What will reveal that the assumptions are no longer valid?
+
+The [SBA Loan Analytics example](https://github.com/rajivsam/kmds_migration) illustrates the difference. A broad feature set produced weak discrimination and required review of the full population. Applying disciplined feature selection and validation changed the result materially. The validation PR-AUC increased from 0.1673 to 0.7560. On held-out data, the resulting policy captured 82.46% of defaults while reviewing 19.55% of the population.
+
+This is not merely a better benchmark. It is a practical review queue aligned with an operational constraint. The full [performance report](https://github.com/rajivsam/kmds_migration/blob/main/sba_migration/agent_documents/sba_performance_report_summary.md) and [technical overview](https://rajivsam.github.io/kmds_migration/kmds_insights_article.html) show how the result was constructed and evaluated.
 {: .text-justify}
 
-**Where I Engage**
+## How I Help
 
-- **Phase 1: Solution Mapping** — I translate physical, industrial, or enterprise use cases into tractable statistical learning problems and build feature sets that reflect the real operating system rather than superficial proxy variables.
-- **Phase 2: Drift & Gap Analysis** — I identify when data drift, concept drift, or structural degradation are beginning to invalidate model assumptions.
-- **Phase 3: Remediation & Calibration** — I rework feature definitions, decomposition windows, and model assumptions so the analytical system remains stable and decisionally valid in production.
+### 1. Frame the Real Problem
 
-**The Open Assets**
+I translate an operational concern into explicit statistical tasks, decision criteria, and validation requirements. The work begins with the process generating the data—not with a preferred model or platform.
 
-- **KMDS**: A knowledge-centric framework for transparent, reproducible machine learning workflows and operationally grounded feature definition.
-- **tseda**: A Python package for analyst-guided time-series decomposition, allowing teams to separate trend, seasonality, and noise while preserving explicit statistical traceability.
-- **structure identification tool**: A tool for finding, explaining, and tracking structure in datasets used for modeling, helping teams diagnose hidden dependencies, segmentations, and drift before they distort decisions. [structure identification tool](https://github.com/rajivsam/structure_identification_for_CS_data)
+### 2. Build the Analytical Architecture
 
-### Why This Model Is Technically Credible
+I identify relevant features, data structures, sources of heterogeneity, candidate models, and failure conditions. The objective is to create a defensible architecture that reflects the actual decision and can be explained to technical and business stakeholders.
 
-1. **The solution is transparent** — it is built in an open-source framework that the client can inspect, run, and adapt without vendor dependency.
-2. **Problem framing is the first hard problem** — the work begins by mapping the business question to the right set of statistical tasks, defining the validation methodology that proves the framing is right, and establishing the monitoring approach that keeps the system honest as it operates. Foundation models can give a team a baseline, but building a solution that customers and modelers truly understand and can maintain is a different question.
-3. **Monitoring and maintenance are a core part of the solution** — another critical dimension of a sustainable machine learning or statistical learning system is how we monitor performance, detect when the operating environment has changed, and know when it is time to change the model or the underlying assumptions.
-4. **The engagement is about decision quality, not labor arbitrage** — I am not positioned as a generic software vendor or a body-for-hire. I work as a specialist in analytical architecture, modeling rigor, and operational stewardship.
-5. **The value is ongoing stewardship** — the work is framed around mathematical design, calibration, and maintenance so the analytical system remains honest as the operating environment changes.
+### 3. Make the Solution Reproducible
 
-### Perspectives on AI and Analytics
+The solution is implemented as a structured, versioned workflow. Data preparation, feature definitions, modeling decisions, validation results, and deployment requirements remain visible and recoverable rather than residing in an individual notebook or vendor environment.
 
-I write practical, grounded commentary on the real work of building useful AI and analytics systems: where the business problem starts, how the data becomes a model, and what it takes to turn a promising idea into something reliable enough to operate.
+### 4. Keep It Honest in Operation
+
+A model can deteriorate when the underlying process changes. Monitoring includes performance, data drift, feature stability, concept drift, and the continuing validity of the business assumptions. When change is detected, the response is explicit: recalibrate, redesign, or retire the affected component.
+
+## Open Tools, Client Ownership
+
+The underlying components are open source and designed for reuse:
+
+- **[KMDS](https://github.com/rajivsam/kmds_migration)** provides a structured, reproducible workflow for analytical projects, including documented decisions, reusable project components, and agent-assisted execution.
+- **[tseda](https://github.com/rajivsam/tseda)** supports analyst-guided time-series decomposition with explicit statistical traceability.
+- **[Structure Identification for CS Data](https://github.com/rajivsam/structure_identification_for_CS_data)** helps expose hidden dependencies, segmentation, and changes in datasets before they distort modeling results.
+
+The same workflow can support different business domains while retaining the discipline around data understanding, feature engineering, modeling, validation, and maintenance. Your organization retains the code, configuration, documentation, and analytical logic.
 {: .text-justify}
 
-If you are interested in my perspectives on AI — especially how generative AI and LLM tools can complement a data scientist in real analytical work — see the [Perspectives on AI and Analytics page](/essays/).
+## A Practical Approach to AI
+
+Agentic tools are used throughout the work to accelerate exploration, implementation, documentation, and repetitive engineering. They do not replace expert accountability. Human judgment remains responsible for defining the decision, recognizing misleading patterns, selecting appropriate validation, and deciding whether a result is ready for operational use.
 {: .text-justify}
 
-### Consulting Offering
-
-I work with CTOs, VP-level engineering leaders, and operating teams that already have the data but do not yet have a statistically defensible architecture for turning it into reliable decisions. My work begins with the question most technical programs skip: what is the actual decision process, and what statistical structure is required to keep that decision valid as the operating environment changes?
+The same principle applies to foundation models. They can provide a useful baseline, support cold starts, or transfer patterns when there is strong repeated structure across tasks. They are not automatically preferable to a well-designed model trained on your own data. The right choice depends on business value, explainability, data characteristics, infrastructure, and maintenance cost. See [Foundation Models for Tabular Data](https://r2dssanity.substack.com/p/foundation-models-for-tabular-data) for a fuller discussion.
 {: .text-justify}
 
-You bring the business context, the operational history, and the pressure to make better decisions at scale. I translate that context into feature engineering, model structure, and analytical architecture that are explainable, auditable, and sustainable. Because the foundation is open and owned by your organization, the resulting analytical logic remains inside the company rather than being trapped inside a vendor platform.
+## Ways to Engage
+
+### Analytical Systems Audit — 2 to 3 Weeks
+
+For a team that has data or an existing model but is uncertain why results are weak, unstable, or difficult to trust, the audit can include:
+
+- Mapping the operational decision and expected business impact
+- Reviewing data structure, feature definitions, and sources of risk
+- Assessing class imbalance, heterogeneity, leakage, drift, and validation
+- Benchmarking the current approach against credible alternatives
+- Identifying the highest-value corrective actions
+- Delivering a prioritized architecture and implementation roadmap
+
+The audit is intended to give decision-makers a clear answer: **what is failing, why it is failing, and what should be done next.**
+
+### Solution Development Kickoff
+
+For a defined opportunity, the next step can be a focused solution kickoff covering the problem definition, statistical design, reproducibility structure, feature strategy, evaluation plan, and first implementation backlog. The engagement is structured around a durable capability rather than a disposable proof of concept.
+
+R2-DS is available to U.S. companies exploring specialist solution partners. Engagements can be structured through a direct independent-contractor agreement or a corporation-to-corporation arrangement, subject to the requirements of the parties.
 {: .text-justify}
 
-The highest-value engagements are not general software delivery projects. They are focused advisory engagements around **featurization**, **model mapping**, and **drift remediation**. I design feature sets, interaction terms, correlation-adjusted signals, and transaction- or sensor-ready datasets that improve model quality and create a more defensible operating system for production decisions.
-{: .text-justify}
+## Why Work With R2-DS
 
-For many organizations, the most valuable work is **mathematical maintenance**: determining whether the model is still measuring the same thing, whether the feature definitions still reflect the actual process, and whether recalibration is required before the system drifts into poor decisions that are difficult to trace back to their source.
-{: .text-justify}
+- **Business decision before technical method** — the statistical work is tied to a real operating choice.
+- **Transparent analytical architecture** — results can be inspected, challenged, reproduced, and maintained.
+- **Reusable engineering** — the solution is designed as a capability, not as an isolated experiment.
+- **Client ownership** — code, knowledge, and analytical logic remain with the organization.
+- **Experienced judgment** — 25+ years of engineering and analytical experience across retail, telecom, transport, finance, government, and software tools.
+- **Sustained technical foundation** — formal PhD-level training in machine learning and publications in statistical learning, graph-oriented systems, optimization, and enterprise-scale machine learning.
 
 <div style="max-width: 900px; margin: 2rem auto;">
   <p style="text-align: center; font-weight: 600; margin-bottom: 1rem;">Watch a short video describing my background and approach.</p>
@@ -83,28 +117,8 @@ For many organizations, the most valuable work is **mathematical maintenance**: 
 
 ---
 
-## Background
+## Start With the Decision
 
-25+ years of engineering experience developing analytical solutions across retail, telecom, transport, finance, government, and software tools, plus formal PhD-level training in machine learning. Selected publications spanning scalable statistical learning, graph-oriented analytical systems, optimization, and enterprise-scale ML infrastructure are available on [Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en).
-
----
-
-## Let's Talk
-
-If your team already has data, operational pressure, and an unclear statistical approach, I can help define the right path and keep it valid as conditions change. [Book a call](https://calendly.com/rajiv-sambasivan) to discuss the decision process, the data reality, and the remediation path.
-
-I work with CTOs, engineering leaders, and technical operators on focused advisory engagements around analytical strategy, feature design, model mapping, and drift remediation. The work is structured for clarity, accountability, and durable operating value.
-
-> Note: I provide strategic ML advisory and specialized decision architecture directly to enterprise clients. I do not take on general implementation-tier projects, staffing arrangements, or W2 agency placements. Third-party brokers and staffing firms seeking to place resources or support general delivery work will not be considered.
+If you have operational data, understand the decision that needs improvement, and suspect that the current statistical approach is not trustworthy, [book an introductory call](https://calendly.com/rajiv-sambasivan). We can use the conversation to clarify the problem, assess whether R2-DS is a suitable partner, and identify whether an audit or solution kickoff is the appropriate next step.
 
 [LinkedIn](https://www.linkedin.com/in/rajiv-sambasivan/) · [GitHub](https://github.com/rajivsam/) · [Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
-
----
-
-## Real-World Example
-
-If you would like to see how this methodology can be applied to a real-world dataset, check out the [SBA Loan Analytics example](https://github.com/rajivsam/kmds_migration) and the [technical overview article](https://rajivsam.github.io/kmds_migration/kmds_insights_article.html).
-
-The broader context for the approach is available in the [methodology](/methodology/) and [Perspectives on AI and Analytics](/essays/) sections.
-
----
