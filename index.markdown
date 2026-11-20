@@ -92,7 +92,7 @@ The audit is intended to give decision-makers a clear answer: **what is failing,
 
 For a defined opportunity, the next step can be a focused solution kickoff covering the problem definition, statistical design, reproducibility structure, feature strategy, evaluation plan, and first implementation backlog. The engagement is structured around a durable capability rather than a disposable proof of concept.
 
-R2-DS is available to U.S. companies exploring specialist solution partners. Engagements can be structured through a direct independent-contractor agreement or a corporation-to-corporation arrangement, subject to the requirements of the parties.
+R2-DS works with U.S. enterprises and global capability centers (GCCs), including teams in Chennai and Bengaluru. Engagements can be structured through a direct independent-contractor agreement or a corporation-to-corporation arrangement, subject to the requirements of the parties.
 {: .text-justify}
 
 ## Why Work With R2-DS
