@@ -59,7 +59,9 @@ A model can deteriorate when the underlying process changes. Monitoring includes
 The underlying components are open source and designed for reuse:
 
 - **[KMDS](https://github.com/rajivsam/kmds_migration)** provides a structured, reproducible workflow for analytical projects, including documented decisions, reusable project components, and agent-assisted execution.
+- **[Imbalanced Feature Screener](https://github.com/rajivsam/imbalanced_feature_screener)** identifies discriminative features in imbalanced datasets, supporting focused feature contracts where rare outcomes make conventional screening unreliable.
 - **[tseda](https://github.com/rajivsam/tseda)** supports analyst-guided time-series decomposition with explicit statistical traceability.
+- **[Count TS Window Selector](https://github.com/rajivsam/count_ts_window_selector)** selects a homogeneous Poisson-process window from a time series of arrivals, helping teams distinguish stable operating periods from regime changes.
 - **[Structure Identification for CS Data](https://github.com/rajivsam/structure_identification_for_CS_data)** helps expose hidden dependencies, segmentation, and changes in datasets before they distort modeling results.
 
 The same workflow can support different business domains while retaining the discipline around data understanding, feature engineering, modeling, validation, and maintenance. Your organization retains the code, configuration, documentation, and analytical logic.
