@@ -11,19 +11,28 @@ og_type: website
 ---
 # Reliable Operational Decisions, Without Platform Lock-In
 
+**Independent analytics advisory from a PhD-trained machine learning practitioner with 25+ years of engineering and analytical experience.** I help U.S. enterprises and global capability centers in Chennai and Bengaluru turn underperforming data initiatives into explainable, reproducible systems that teams can own and operate.
+
+[Book a 20-minute diagnostic call](https://calendly.com/rajiv-sambasivan) · [Review case studies](https://github.com/rajivsam/kmds_migration) · [Explore the methodology](/methodology/)
+
 ## Statistical Learning Built for the Real Decision
 
-I help CTOs, engineering leaders, and operational teams turn organizational data into analytical systems that produce reliable, explainable, and maintainable decisions. R2-DS combines established statistical learning methods—refined by researchers and practitioners over decades—with disciplined software engineering. The result is a reusable, auditable solution that your organization can inspect, operate, extend, and own.
+Analytics initiatives often fail because the solution does not reflect the business process, data structure, validation requirements, or operational consequences. I focus on those gaps: problem framing, feature design, model selection, validation, monitoring, and maintenance.
 {: .text-justify}
 
-Many analytics initiatives fail not because the team lacks algorithms, but because the solution does not adequately reflect the business process, data structure, validation requirements, or operational consequences. I focus on those gaps: problem framing, feature design, model selection, validation, monitoring, and maintenance. Foundation models and advanced techniques can be useful, but reinventing established methods is unnecessary when the available data and domain knowledge support a simpler, more transparent solution.
+R2-DS combines established statistical learning with disciplined software engineering. The result is a reusable, auditable solution that your organization can inspect, operate, extend, and own—without unnecessary model complexity or platform dependence.
 {: .text-justify}
 
-[Discuss your problem](https://calendly.com/rajiv-sambasivan) · [Explore the methodology](/methodology/) · [Review case studies](https://github.com/rajivsam/kmds_migration)
+<div style="max-width: 900px; margin: 2rem auto;">
+  <p style="text-align: center; font-weight: 600; margin-bottom: 1rem;">A brief introduction to my background and approach.</p>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://www.youtube.com/embed/cporvnttK1U" title="Rajiv Sambasivan on the KMDS approach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  </div>
+</div>
 
-## Where the Approach Creates Value
+## Practical Evidence, Not Model Hype
 
-Simply passing cleaned data to an algorithm rarely produces a robust operational system. Real data may contain imbalance, hidden subpopulations, correlated features, inconsistent semantics, and changing operating conditions. The useful question is not "Which algorithm should we run?" but:
+Real data may contain imbalance, hidden subpopulations, correlated features, inconsistent semantics, and changing operating conditions. The useful question is not "Which algorithm should we run?" but:
 
 - What decision must the model support?
 - What structure and limitations exist in the data?
@@ -31,14 +40,26 @@ Simply passing cleaned data to an algorithm rarely produces a robust operational
 - How will success be measured in operation?
 - What will reveal that the assumptions are no longer valid?
 
-The [SBA Loan Analytics example](https://github.com/rajivsam/kmds_migration) illustrates the value of disciplined feature design and validation. A broad feature set produced weak discrimination and required review across the full population. After targeted feature selection and evaluation, the validation PR-AUC improved from 0.1673 to 0.7560. On held-out data, the resulting review policy captured 82.46% of defaults while reviewing 19.55% of applicants. That is not merely a better benchmark. It is a practical review queue aligned to a real operational constraint: scarce review capacity is directed to the cases most likely to create loss while keeping the rest of the portfolio in view.
+### SBA Loan Analytics: Focus Scarce Review Capacity
+
+The [SBA Loan Analytics example](https://github.com/rajivsam/kmds_migration) began with weak discrimination and a requirement to review the full population. Disciplined feature selection and validation changed the operating result:
+
+- **Validation PR-AUC:** 0.1673 to 0.7560
+- **Defaults captured on held-out data:** 82.46%
+- **Population requiring review:** 19.55%
 
 The full [performance report](https://github.com/rajivsam/kmds_migration/blob/main/sba_migration/agent_documents/sba_performance_report_summary.md) and [technical overview](https://rajivsam.github.io/kmds_migration/kmds_insights_article.html) show how the result was constructed and evaluated.
 
-The same discipline applies in other settings. The [Olist regional demand segmentation example](https://github.com/rajivsam/kmds_migration/blob/main/olist_migration/documents/olist_usecase_summary.md) reduced 112,650 order-item records to a coherent 2017 São Paulo study containing 20,044 transactions. Those transactions were represented as a 52-week by 9,367-SKU demand matrix and segmented using spectral clustering. The result was highly concentrated: 8,661 SKUs, or 92.5% of the assortment, occupied one broad temporal-demand group, while 706 SKUs formed smaller groups with distinct weekly behavior.
+This is more than a better benchmark. It creates a practical review queue that directs limited capacity toward the cases most likely to create loss.
 
-This converts a difficult-to-interpret transaction history into a focused planning view. Assortment and inventory planners can apply the common baseline process to most SKUs while prioritizing the 706 exceptions for deeper profiling, merchandising review, and differentiated replenishment analysis. It supports tactical decisions about assortment, allocation, and operational attention, while the resulting profiles and recurring demand patterns can also inform longer-term category and inventory-policy planning. It does not, by itself, prove inventory savings; those require validation with margin, lead-time, service-level, and stockout data.
-{: .text-justify}
+### Olist Demand Segmentation: Find the Exceptions That Deserve Attention
+
+The [Olist regional demand segmentation example](https://github.com/rajivsam/kmds_migration/blob/main/olist_migration/documents/olist_usecase_summary.md) reduced 112,650 order-item records to a coherent 2017 São Paulo study containing 20,044 transactions. The analysis converted the transactions into a 52-week by 9,367-SKU demand matrix:
+
+- **8,661 SKUs (92.5%)** formed one broad temporal-demand group.
+- **706 SKUs (7.5%)** formed smaller groups with distinct weekly behavior.
+
+Assortment and inventory planners can apply a common baseline process to most SKUs while directing deeper profiling, merchandising review, and differentiated replenishment analysis toward the 706 exceptions. The view supports tactical assortment and allocation decisions and can inform longer-term category and inventory-policy planning. It does not, by itself, prove inventory savings; that requires validation with margin, lead-time, service-level, and stockout data.
 
 ## How I Help
 
@@ -101,6 +122,17 @@ For a defined opportunity, the next step can be a focused solution kickoff cover
 R2-DS works with U.S. enterprises and global capability centers (GCCs), including teams in Chennai and Bengaluru. Engagements can be structured through a direct independent-contractor agreement or a corporation-to-corporation arrangement, subject to the requirements of the parties.
 {: .text-justify}
 
+### For GCC Leaders
+
+I help GCC data science and engineering teams turn local delivery work into systems that headquarters can trust:
+
+- Align analytical work with the operational decision owned by U.S. or global stakeholders
+- Make assumptions, validation, and limitations visible across teams and time zones
+- Create reproducible handoffs that reduce dependence on individual analysts
+- Build auditable evidence of technical quality and business relevance
+
+The result is not just faster execution. It is headquarters-ready analytical work with clearer governance, stronger continuity, and a direct connection to business decisions.
+
 ## Why Work With R2-DS
 
 - **Business decision before technical method** — the statistical work is tied to a real operating choice.
@@ -110,13 +142,6 @@ R2-DS works with U.S. enterprises and global capability centers (GCCs), includin
 - **Experienced judgment** — 25+ years of engineering and analytical experience across retail, telecom, transport, finance, government, and software tools.
 - **Sustained technical foundation** — formal PhD-level training in machine learning and publications in statistical learning, graph-oriented systems, optimization, and enterprise-scale machine learning.
 
-<div style="max-width: 900px; margin: 2rem auto;">
-  <p style="text-align: center; font-weight: 600; margin-bottom: 1rem;">Watch a short video describing my background and approach.</p>
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe src="https://www.youtube.com/embed/cporvnttK1U" title="Overview of KMDS approach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-  </div>
-</div>
-
 {:refdef: style="text-align: center;"}
 ![rinse and repeat logo](assets/images/logonav_resized.png)
 {: refdef}
@@ -125,6 +150,8 @@ R2-DS works with U.S. enterprises and global capability centers (GCCs), includin
 
 ## Start With the Decision
 
-If you have operational data, understand the decision that needs improvement, and suspect that the current statistical approach is not trustworthy, [book an introductory call](https://calendly.com/rajiv-sambasivan). We can use the conversation to clarify the problem, assess whether R2-DS is a suitable partner, and identify whether an audit or solution kickoff is the appropriate next step.
+If an analytics system is underperforming, difficult to trust, or ready to become an owned capability, start with a focused 20-minute diagnostic conversation—no pitch deck. We will clarify the decision, identify the likely constraints, and determine whether an audit or solution kickoff is appropriate.
+
+[Book a 20-minute diagnostic call](https://calendly.com/rajiv-sambasivan)
 
 [LinkedIn](https://www.linkedin.com/in/rajiv-sambasivan/) · [GitHub](https://github.com/rajivsam/) · [Google Scholar](https://scholar.google.com/citations?user=96db8S4AAAAJ&hl=en)
