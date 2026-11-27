@@ -58,12 +58,12 @@ The [Olist regional demand segmentation example](https://github.com/rajivsam/kmd
 
 The current result identifies four weekly demand regimes:
 
-- **Regime 0:** 23 weeks (44.2% of the year)
-- **Regime 1:** 12 weeks (23.1%)
+- **Regime 0:** 17 weeks (32.7% of the year)
+- **Regime 1:** 18 weeks (34.6%)
 - **Regime 2:** 9 weeks (17.3%)
 - **Regime 3:** 8 weeks (15.4%)
 
-Here, the retained product IDs are features that distinguish the week regimes; they are not products assigned to four product clusters. The result gives assortment and inventory planners an auditable queue for investigating which retained products, weeks, and calendar conditions warrant further review. It supports testing regime-specific operating policies, but it does not by itself establish a causal explanation, forecast improvement, or inventory savings. Those conclusions require repeated-run stability checks and enrichment with margin, lead-time, service-level, promotion, and stockout data.
+Here, the retained product features distinguish the week regimes; they are not products assigned to four product clusters. The result gives assortment and inventory planners an auditable queue for investigating which retained products, weeks, and calendar conditions warrant further review. It supports testing regime-specific operating policies, but it does not by itself establish a causal explanation, forecast improvement, or inventory savings. Those conclusions require repeated-run stability checks and enrichment with margin, lead-time, service-level, promotion, and stockout data.
 
 ## How I Help
 
