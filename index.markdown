@@ -54,12 +54,16 @@ This is more than a better benchmark. It creates a practical review queue that d
 
 ### Olist Demand Segmentation: Find the Exceptions That Deserve Attention
 
-The [Olist regional demand segmentation example](https://github.com/rajivsam/kmds_migration/blob/main/olist_migration/documents/olist_usecase_summary.md) reduced 112,650 order-item records to a coherent 2017 São Paulo study containing 20,044 transactions. The analysis converted the transactions into a 52-week by 9,367-SKU demand matrix:
+The [Olist regional demand segmentation example](https://github.com/rajivsam/kmds_migration/blob/main/olist_migration/documents/olist_usecase_summary.md) reduced 112,650 order-item records to a coherent 2017 São Paulo study containing 20,044 transactions. The analysis converted the transactions into a weekly demand matrix with 52 observations and 9,367 candidate product-revenue features. A geometry and feature-redundancy audit removed 8,497 columns, leaving 870 product features for analysis.
 
-- **8,661 SKUs (92.5%)** formed one broad temporal-demand group.
-- **706 SKUs (7.5%)** formed smaller groups with distinct weekly behavior.
+The current result identifies four weekly demand regimes:
 
-Assortment and inventory planners can apply a common baseline process to most SKUs while directing deeper profiling, merchandising review, and differentiated replenishment analysis toward the 706 exceptions. The view supports tactical assortment and allocation decisions and can inform longer-term category and inventory-policy planning. It does not, by itself, prove inventory savings; that requires validation with margin, lead-time, service-level, and stockout data.
+- **Regime 0:** 23 weeks (44.2% of the year)
+- **Regime 1:** 12 weeks (23.1%)
+- **Regime 2:** 9 weeks (17.3%)
+- **Regime 3:** 8 weeks (15.4%)
+
+Here, the retained product IDs are features that distinguish the week regimes; they are not products assigned to four product clusters. The result gives assortment and inventory planners an auditable queue for investigating which retained products, weeks, and calendar conditions warrant further review. It supports testing regime-specific operating policies, but it does not by itself establish a causal explanation, forecast improvement, or inventory savings. Those conclusions require repeated-run stability checks and enrichment with margin, lead-time, service-level, promotion, and stockout data.
 
 ## How I Help
 
@@ -87,6 +91,7 @@ The underlying components are open source and designed for reuse:
 - **[Imbalanced Feature Screener](https://github.com/rajivsam/imbalanced_feature_screener)** identifies discriminative features in imbalanced datasets, supporting focused feature contracts where rare outcomes make conventional screening unreliable.
 - **[tseda](https://github.com/rajivsam/tseda)** supports analyst-guided time-series decomposition with explicit statistical traceability.
 - **[Count TS Window Selector](https://github.com/rajivsam/count_ts_window_selector)** selects a homogeneous Poisson-process window from a time series of arrivals, helping teams distinguish stable operating periods from regime changes.
+- **[Cluster Feature Analysis](https://github.com/rajivsam/cluster_feature_analysis)** investigates cluster geometry and feature redundancy, removes redundant features, and recommends an appropriate clustering approach and distance measure.
 - **[Structure Identification for CS Data](https://github.com/rajivsam/structure_identification_for_CS_data)** helps expose hidden dependencies, segmentation, and changes in datasets before they distort modeling results.
 
 The same workflow can support different business domains while retaining the discipline around data understanding, feature engineering, modeling, validation, and maintenance. Your organization retains the code, configuration, documentation, and analytical logic.
